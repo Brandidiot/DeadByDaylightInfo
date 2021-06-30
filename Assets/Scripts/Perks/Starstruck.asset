@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: Starstruck
+  m_EditorClassIdentifier: 
+  icon: {fileID: -3943656725488089411, guid: 8c06c1c3c89aecf41b83c4b729d3c5a3, type: 3}
+  info: 'When carrying a Survivor, Starstruck activates:
+
+    
+
+    Survivors suffer
+    from the Exposed Status Effect while in your Terror Radius.
+
+    The Status
+    Effect lingers for <color=#ffff00>26</color>/<color=#00ff00>28</color>/<color=#800080>30</color>
+    seconds after leaving your Terror Radius.
+
+    After hooking or dropping the
+    carried Survivor, Starstruck deactivates:
+
+    
+
+    The Status Effect persists
+    for <color=#ffff00>26</color>/<color=#00ff00>28</color>/<color=#800080>30</color>
+    seconds for any Survivor inside your Terror Radius at that moment.
+
+    Starstruck
+    has a cool-down of <color=#ffff00>60 seconds</color> once the Survivor is no
+    longer being carried.'
+  Name: Starstruck

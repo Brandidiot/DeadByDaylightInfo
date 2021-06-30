@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Hag
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -3885374688362982791, guid: 71b37875dc9aaf64e89c5f9f3273f1ff, type: 3}
+  Name: The Hag
+  scrollHeight: 1032.031
+  Lore: "Lisa Sherwood grew up in a quiet village, mainly isolated from the rest
+    of civilisation. The people of the hamlet were kind and the elders kept old traditions
+    alive, often keeping the peace by personally settling the ever-rare disputes.
+    Lisa was particularly fond of the charms they taught her to draw for safety and
+    good fortune. One night, as she was walking home through the woods, a terrible
+    storm struck without warning. Howling winds whipped at her hair as she stumbled
+    through the swamp, her rain-drenched dress plastered to her skin. In the slick,
+    wet mud she lost her footing, careening backwards and striking her head against
+    rock. Slipping in and out of consciousness, she strained to identify the dark
+    shapes approaching her from between the trees. That's the last thing she could
+    remember.\r\n\r\nHer kidnappers kept her chained to the wall in a flooded cellar.
+    Though dimly lit, she could see others whose large open wounds swarmed with flies.
+    It took merely a day before they returned, carving chunks from the prisoners'
+    bodies with rusted blades, consuming their very flesh down to the bone. Most
+    she saw did not survive long once the cannibals targeted them but somehow, deep
+    within, Lisa persisted. Starved, infected, and mutilated after several weeks
+    of torture, her gaunt arms became loose in their shackles. She pulled hard, the
+    metal tearing through skin and muscle until she was free. Her flesh oozed viscous
+    yellow pus and bones were visible beneath gangrenous wounds. She could go no
+    further. Delirious, she thought of home; she thought of the elders. With her
+    dying breath, she etched the symbols they had taught her into the floor using
+    what remained of her fingers. Almost in response, a dark hunger stirred inside
+    her. It yearned for blood. In oath, she chose vengeance.\r\n\r\nThe village's
+    search party eventually brought them to an old shack in a swamp. Inside, its
+    previous inhabitants had been viciously dismembered and devoured by an unidentifiable
+    animal. In the cellar, amid rotting corpses and disconnected flesh, the elders\u2019
+    charms were scrawled in blood on the floor. Lisa\u2019s body was not among the
+    bodies and was never found. The village was never the same again."
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk2: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk3: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk4: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  build2Name: Non-Undying
+  perk5: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk6: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk7: {fileID: 11400000, guid: ec3890e9854ffc34e92bfd076c3b612a, type: 2}
+  perk8: {fileID: 11400000, guid: be97698a09fce4e40aa15efe7106a040, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk10: {fileID: 11400000, guid: 40648968e4d09e64eab3f6adb7ea17c9, type: 2}
+  perk11: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk12: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}
+  build4Name: BBQ
+  perk13: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk14: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk15: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk16: {fileID: 11400000, guid: 8fa1b1aa96799d54f896818267da1ba4, type: 2}

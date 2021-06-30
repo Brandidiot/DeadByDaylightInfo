@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Leatherface
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 2249580527646467131, guid: 03514b403b32aa646943d1bb597c6ccc, type: 3}
+  Name: The Cannibal
+  scrollHeight: 1442.383
+  Lore: "Leatherface kills not from a desire to exert his will over others, to satisfy
+    carnal urges, or even to quiet the voices in his head. He kills because he is
+    scared. Scared that others will hurt him; scared that his family will be displeased
+    with him, scared that their shared willingness to eat human flesh will be discovered.\r\n\nHe
+    does as he is told. His family loves him and that is all that matters. Outsiders
+    are a threat, and threats need to be dealt with.\r\n\nLike those kids that came
+    into the house, uninvited. Walked in like they owned the place. Looked around
+    the house, trying to find out his family\u2019s secrets, no doubt. But Leatherface
+    deals with them, and protects his family just as he\u2019s been taught.\r\n\nHe
+    is not just protector, he has many roles, and each role has its own face. He
+    serves dinner, cares for the family, and dresses well when they eat. His Grandpa
+    and Ma used to care for them all, but Grandpa, he is old now and Ma has been
+    still for a while, so Leatherface and his brothers had to take over. Family is
+    everything to him. Family is security and safety.\r\n\nBut, even though he did
+    his best, one of the kids got away. He tried to stop her, chasing after her as
+    fast as he could, but she had help: another outsider, driving a truck. The evil
+    trucker killed his brother, ran him over like he was a possum. In a fury, Leatherface
+    leapt at him, the saw ready to avenge his family, but the trucker was too quick.
+    He knocked Leatherface aside and turned his own saw against him.\r\n\nAs he watched
+    the outsiders driving away, the rage, grief and pain combined with the worry
+    about what would happen to his family now. They would surely return with the
+    police, and the police would take his brothers, his Grandpa. Without them, what
+    would he do? Without their commands, he would wither and die.\r\n\nAs his world
+    collapsed, Leatherface spun in circles, swinging the saw all around, trying to
+    fight off the myriad external threats that surrounded him.\r\n\nThen another
+    feeling overtook him. It came from outside his vision, crawling over his skin
+    with cold dread. He realised that no matter what outsiders could do to him, there
+    was something worse, something bigger that lived in the shadows. He was filled
+    with a terror unlike any he had ever felt before. But it was almost comforting,
+    like the fear he'd felt with his family. The fear of disappointing them.\r\n\nHe
+    was brought to a place that was familiar but unknowable, and he instinctively
+    knew what he had to do. He couldn't fail it, the way he had his family. Outsiders
+    would come but he would use his skills to overcome any threats. There would be
+    screaming, but he could make the world quiet again. Until the only sound remaining
+    was the blessed howl of the saw.\r\n\nLet the outsiders come."
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk2: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk3: {fileID: 11400000, guid: f25f16a443c69b24fa55c38dae12483a, type: 2}
+  perk4: {fileID: 11400000, guid: 1abe75d6cda2a464db5b09e4e80dff0e, type: 2}
+  build2Name: Non-Undying
+  perk5: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk6: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk7: {fileID: 11400000, guid: f25f16a443c69b24fa55c38dae12483a, type: 2}
+  perk8: {fileID: 11400000, guid: 1abe75d6cda2a464db5b09e4e80dff0e, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: d18944060deaa814fb38e32865ef0c8e, type: 2}
+  perk10: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk11: {fileID: 11400000, guid: dd1362ea7beae4e42a35833e5597b5cb, type: 2}
+  perk12: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  build4Name: BBQ
+  perk13: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk14: {fileID: 11400000, guid: 4ce80379a462fad4391402112f189f03, type: 2}
+  perk15: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk16: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}

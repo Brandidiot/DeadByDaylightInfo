@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Hillbilly
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 3481793612468178990, guid: c0821adf9cd9e074da7652092a952235, type: 3}
+  Name: The Hillbilly
+  scrollHeight: 602.1089
+  Lore: 'The son of wealthy landowners Max Thompson Sr. and Evelyn Thompson, this
+    unnamed boy was an unwanted child born to savage parents. Hideously disfigured,
+    he was shut away from society. So ashamed of their son, they bricked him off
+    into a room and fed him through a hole in the wall. When the boy escaped, he
+    took his revenge savagely and terribly, slaughtering the parents that had tortured
+    him instead of raising him.
+
+
+    After the deed was done, he continued to live
+    his life at the farm, taking out his deranged violence on the animals that were
+    allowed to run free. As he finally broke free from his shackles he ran through
+    the cornfields, chasing and slaughtering whatever he could find. They never found
+    the bodies of Max and Evelyn, but they did find tortured and disembowelled animals
+    all over the farm.
+
+
+    Coldwind Farm was quickly settled and the land split
+    up and sold off. There was never a buyer for the farmhouse. Perhaps it was the
+    sound of the chainsaw you could hear throughout those hot summer nights.'
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk2: {fileID: 11400000, guid: 4ce80379a462fad4391402112f189f03, type: 2}
+  perk3: {fileID: 11400000, guid: 4a54b42a56c21074795dcc8b2a6570cd, type: 2}
+  perk4: {fileID: 11400000, guid: 92b4d0559abb0ae4cae59b3ada212c1d, type: 2}
+  build2Name: Aggressive
+  perk5: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk6: {fileID: 11400000, guid: e2000557a6718444392b5e4a60665dda, type: 2}
+  perk7: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk8: {fileID: 11400000, guid: 93c765d910a3a774aa7039e7bdfb847e, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: e2000557a6718444392b5e4a60665dda, type: 2}
+  perk10: {fileID: 11400000, guid: 1abe75d6cda2a464db5b09e4e80dff0e, type: 2}
+  perk11: {fileID: 11400000, guid: 1c0c196db8d7aa64eb1a83f5d3b24463, type: 2}
+  perk12: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}
+  build4Name: 
+  perk13: {fileID: 0}
+  perk14: {fileID: 0}
+  perk15: {fileID: 0}
+  perk16: {fileID: 0}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: Monitor&Abuse
+  m_EditorClassIdentifier: 
+  icon: {fileID: 894132139943425089, guid: 7b76e57998f99f145a61fe648b4bdc4d, type: 3}
+  info: "Your base Terror Radius is increased by <color=#ffff00>8 metres</color>.\r\n\nWhenever
+    you are outside of a Chase, your Terror Radius is reduced by <color=#ffa500>16
+    metres</color> while your Field of View is increased by <color=#ffff00>3</color>/<color=#00ff00>5</color>/<color=#800080>10</color>
+    \xB0.\r\n\nField of View gains do not stack."
+  Name: Monitor & Abuse

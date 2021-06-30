@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: Stridor
+  m_EditorClassIdentifier: 
+  icon: {fileID: -4678458324823567826, guid: e0f6712bba659bd4181f7f725fabaafb, type: 3}
+  info: 'You are acutely sensitive to the breathing of your prey.
+
+    All Survivors''
+    Grunts of Pain are <color=#ffff00>25</color>/<color=#00ff00>50</color>/<color=#800080>50</color>
+    % louder and their regular breathing is <color=#ffff00>0</color>/<color=#00ff00>0</color>/<color=#800080>25</color>
+    % louder.'
+  Name: Stridor

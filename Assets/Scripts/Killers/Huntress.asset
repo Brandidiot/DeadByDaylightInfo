@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Huntress
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 5126121102192863849, guid: abb0f064d2e495d43a2a1ab56e3fa9d0, type: 3}
+  Name: The Huntress
+  scrollHeight: 1969.014
+  Lore: "As soon as Anna was able to walk, her mother started teaching her how to
+    survive a harsh, solitary life in the northern woods. Living in such an extremely
+    remote and dangerous area required skill and resilience. When sunlight became
+    too dim for productive activities, they would take refuge in their house, a sturdy
+    old cabin constructed to resist the toughest winters. Close to the hearth\u2019s
+    warmth, Anna would rest in her mother's arms, surrounded by the few wooden toys
+    and masks she had crafted for her. Drifting off to sleep with stories and lullabies,
+    she dreamt happy dreams, ignorant of the events that would soon change everything.\r\n\nAnna
+    and her mother were stalking a great elk through the woods. They knew it was
+    dangerous prey, but it had been a particularly difficult winter and they were
+    almost out of food. The spectre of starvation frightened them more than any forest
+    creature. Without warning, the elk reared, bellowed and charged at Anna. She
+    was paralysed with fear as the whole world seemed to shake under the immense
+    beast\u2019s pounding hooves. The elk was close enough for Anna to see the murderous
+    fury in its eyes when her mother threw herself in its path, axe in hand. A blood-curdling
+    scream escaped from her lips as the elk impaled her upon its antlers and hoisted
+    her into the air. With all her strength, she brought her axe down on its head
+    again and again while it tried to shake her loose. With a sickening crack, the
+    antlers snapped and Anna\u2019s mother was free. The beast collapsed.\r\n\nAnna
+    was too small to move her mother\u2019s broken body, so she sat with her in the
+    clearing where she had fallen. To distract her from the dying elk\u2019s cries,
+    Anna\u2019s mother held her and hummed her favourite lullaby. They stayed like
+    that, the huntress and the elk getting quieter and colder, until Anna was alone
+    in the silent forest. Eventually she stood up and started the long walk back
+    home.\r\n\nStill a child, she knew just enough about life in the frozen forest
+    to survive. She followed her instincts and became one with the wild. She got
+    older and stronger and practised her hunt. As she grew into a dangerous predator,
+    her humanity became a half-remembered dream.\r\n\nShe widened her territory and
+    lived off her hunts. She worked her way up through squirrels, hares, mink and
+    foxes. Eventually she grew tired of them and hunted more dangerous animals like
+    wolves and bears. When unsuspecting travellers came through her woods, she discovered
+    her new favourite prey: humans. Unlucky souls who strayed into her territory
+    were slaughtered like any other animal. She liked to collect their tools and
+    colourful garments and especially toys when there were little ones. But she could
+    never bring herself to kill the little girls.\r\n\nGirls she would take back
+    to her house, deep in the woods. They were precious, and looking at them woke
+    up something deep in her heart. She craved the closeness of a loved one, a child
+    of her own. Among the pillaged wooden toys, dolls and story books she couldn't
+    read, the girls would be tied by the neck with a rough and chafing rope fastened
+    firmly to the wall. She couldn't let them wander off, or they would surely die
+    outside.\r\n\nEvery time, the girls would waste away and die of cold or starvation
+    or sickness. Every time, it plunged Anna deeper into pain and sorrow and madness.
+    She was compelled to try again, and started raiding the nearest villages to slaughter
+    families and kidnap their daughters. She wore one of the animal masks her mother
+    crafted for her so many years earlier to try to calm the frightened children.
+    Villagers spread the legend of a half-beast lurking in Red Forest: The Huntress,
+    who killed men and ate little girls.\r\n\nWar eventually came to the forest.
+    German soldiers began to pass through, on the march to attack the collapsing
+    Russian Empire. During these dark times, there were no more travellers. The villagers
+    had abandoned their homes, and no more little ones to be found; only soldiers.
+    Many of them were found with violent axe wounds. Whole groups disappeared mysteriously.
+    Once the war was over, the rumours of The Huntress disappeared with it, engulfed
+    by the Red Forest."
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk2: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk3: {fileID: 11400000, guid: 4a54b42a56c21074795dcc8b2a6570cd, type: 2}
+  perk4: {fileID: 11400000, guid: 1c0c196db8d7aa64eb1a83f5d3b24463, type: 2}
+  build2Name: Tracking
+  perk5: {fileID: 11400000, guid: d18944060deaa814fb38e32865ef0c8e, type: 2}
+  perk6: {fileID: 11400000, guid: ec3890e9854ffc34e92bfd076c3b612a, type: 2}
+  perk7: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk8: {fileID: 11400000, guid: 1c0c196db8d7aa64eb1a83f5d3b24463, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: 4ec994370d727a8439f8b9231a70a5c8, type: 2}
+  perk10: {fileID: 11400000, guid: 1c0c196db8d7aa64eb1a83f5d3b24463, type: 2}
+  perk11: {fileID: 11400000, guid: 1a0626a65a5904b40a314e82cb61157d, type: 2}
+  perk12: {fileID: 11400000, guid: 6fd691d9f28c88c4d91bce43d1a77110, type: 2}
+  build4Name: 
+  perk13: {fileID: 0}
+  perk14: {fileID: 0}
+  perk15: {fileID: 0}
+  perk16: {fileID: 0}

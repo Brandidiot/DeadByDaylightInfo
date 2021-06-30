@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Deathslinger
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 9031595010626934013, guid: 793bb5c21e7256343bcb327230a78504, type: 3}
+  Name: The Deathslinger
+  scrollHeight: 2514.512
+  Lore: "Born in the dust-ridden badlands of the American Midwest, Caleb Quinn was
+    son to struggling Irish immigrants. On the edge of the frontier, sickness, famine,
+    and death were common sights, and pioneers contended for whatever scraps they
+    could claim while tycoons feasted. Caleb's father, once an engineer, had few
+    options to ply his trade as businesses posted a common sign: No Irish Need Apply.
+    His antiquated tools laid untouched for years until Caleb uncovered them. Noticing
+    his son's interest in the trade, he gifted him his old wrench.\r\n\nThe devices
+    Caleb made under his father's guidance had quaint applications, but when his
+    father was away, they took a grim turn. He hid plans for a mask that would gouge
+    barbed needles into a human's eyes and rip them from their sockets, complete
+    with sketches of it fitted on boys who bullied him.\r\n\nWith age, Caleb's engineering
+    abilities became marketable and employers put their discrimination aside. Henry
+    Bayshore, the owner of United West Rail, hired him.\r\n\nCaleb first invented
+    a gun that shot railroad spikes into the ground. Next, he made a steam-powered
+    tunnelling drill. But as Bayshore feigned indifference, the devices began turning
+    up at other companies, the patents stolen from Caleb and sold.\r\n\nA familiar
+    sensation coursed through Caleb's blood, feeding the sharp pain in his heart.
+    Rage overwhelming him, he burst into Bayshore's office and smashed his face into
+    a bloody stew. As he was pulled away, he pushed his specialised gun to his boss'
+    gut and squeezed the trigger. A railroad spike plowed through skin and viscera,
+    nailing Bayshore to his desk.\r\n\nThe only thing that saved Caleb from hanging
+    was Bayshore's unlikely survival. For fifteen years, Caleb was confined to Hellshire
+    Penitentiary, the nation's first private prison. In a fortress of illiterate
+    convicts, he found an unlikely friend in the educated prison warden. He designed
+    torture devices for him and in return received extra meals. After a time, the
+    warden offered to commute his sentence. He spoke of something greater than monetary
+    wealth \u2014 political capital \u2014 and that his connections could have Bayshore
+    framed and rotting behind bars for life. He had only one request: make him rich.
+    Fill the prison. Use ingenuity to bring outlaws in alive.\r\n\nCaleb returned
+    to his workshop, and with a few modifications emerged with something new \u2014
+    the speargun. The first trial occurred when a thief robbed a Chinese laundry.
+    Seizing on the opportunity, Caleb unleashed his prototype. Metal joints screeched
+    as the spike shot forward, gouging into the target's abdomen. But as the spear
+    tugged, it caught the thief's intestines, and, with an ungodly sound, yanked
+    them onto the dusty road. After several iterations, the disembowelments dwindled,
+    but Caleb had already earned his new nickname: The Deathslinger.\r\n\nLooking
+    to protect his asset, the prison warden pulled strings and released Irish inmates
+    to form Caleb's posse. The Hellshire Gang was born. For six years, they roamed
+    the country collecting wanted outlaws for the prison, fulfilling their end of
+    the bargain. After a bloody battle at Glenvale, Caleb caught notice of a newspaper
+    headline: Henry Bayshore Purchases Hellshire Penitentiary. In the picture, a
+    disfigured Bayshore proudly shook the warden's hand. Caleb's heart pounded with
+    rage, blood swelling as if it would burst from his veins. He'd been sold out,
+    a pawn in a rich man's game.\r\n\nThe Hellshire Gang pledged their loyalty to
+    Caleb and called for the warden's head. In a thundering gallop, they smashed
+    through the prison entrance, shrieking like bloodthirsty marauders. A guard raised
+    his pistol, but hesitated. A spear punctured his chest. Caleb grabbed the man's
+    head and slammed it against a prison cell until it spilled through the bars.\r\n\nReaching
+    the warden's office, Caleb kicked the door and was met with a fortunate sight
+    \u2014 it wasn't only the prison warden who cowered in a corner, but Henry Bayshore.
+    Overpowered with rage, Caleb rushed to Bayshore, beating, bludgeoning, tearing
+    at his flesh. The man's blood dripped from his face, crimson pooling at his feet.
+    The Hellshire Gang swarmed the warden, snapping bones with each kick.\r\n\nWith
+    the two men broken and begging for death, the posse dragged them to the commons,
+    where they were left to the growing crowd of prisoners.\r\n\nSoaked in blood
+    and sweat, Caleb hobbled to his old cell, hardly paying notice to Bayshore's
+    screams. He sat on the bed's edge as drops of blood ran from his fingertips.
+    A thick, unnatural fog streamed through the barred window. He pulled out his
+    old wrench, cracked and rusted, and ran a thumb along the metal, regarding it
+    with faded eyes. He couldn't remember when it came into his possession. He didn't
+    care to remember. At his feet, he saw a dusty path, and, at its end, silhouettes
+    of all who had done him wrong: the boys who bullied him, the executives who took
+    advantage of him, and, again... Henry Bayshore. Emerging from a fog were the
+    tools to dispose of them \u2014 unforgiving steel hooks, brilliant and beautiful
+    in their simplicity. Pain tore through his leg as he stood, but he endured, pushing
+    onwards, walking the dusty path, leaving a trail of blood flowing behind him."
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk2: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk3: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk4: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  build2Name: Non-Undying
+  perk5: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk6: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk7: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk8: {fileID: 11400000, guid: be97698a09fce4e40aa15efe7106a040, type: 2}
+  build3Name: Starstruck
+  perk9: {fileID: 11400000, guid: 08d0a1f75b759814ea132b7d1281bb34, type: 2}
+  perk10: {fileID: 11400000, guid: 83a6cf8fae4a83c40976019ce0526637, type: 2}
+  perk11: {fileID: 11400000, guid: 4a54b42a56c21074795dcc8b2a6570cd, type: 2}
+  perk12: {fileID: 11400000, guid: 3aa0f8453fd6a3b4c900ab416b7dbe80, type: 2}
+  build4Name: Non-Teachable
+  perk13: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk14: {fileID: 11400000, guid: cab73f30a108de74087829c4f4dfa76b, type: 2}
+  perk15: {fileID: 11400000, guid: 1c0c196db8d7aa64eb1a83f5d3b24463, type: 2}
+  perk16: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}

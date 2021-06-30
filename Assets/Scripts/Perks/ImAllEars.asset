@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: ImAllEars
+  m_EditorClassIdentifier: 
+  icon: {fileID: 323256351070854819, guid: b4ae4c2625512484b9d672ad479a74c5, type: 3}
+  info: 'Any Survivor performing a rushed action within <color=#ffff00>48 metres</color>
+    of your location has their Aura revealed to you for <color=#ffa500>6 seconds</color>.
+
+
+    I''m
+    All Ears can only be triggered once every <color=#ffff00>60</color>/<color=#00ff00>50</color>/<color=#800080>40</color>
+    seconds.'
+  Name: I'm All Ears

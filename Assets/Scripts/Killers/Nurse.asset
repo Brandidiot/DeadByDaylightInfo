@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Nurse
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -117381706063063591, guid: bd27e6e58de142b4889ede5e41a2c42c, type: 3}
+  Name: The Nurse
+  scrollHeight: 861.2722
+  Lore: 'Sally Smithson came to town with dreams of children''s feet and laughter
+    in a wooden home built by her husband Andrew. But life came not with smiles but
+    with plans of destruction. Andrew worked as a lumberjack - a job with its perils.
+    One day, Andrew''s foreman had to pay Sally a visit, forever changing her life.
+    She was alone.
+
+
+    Without food on the table and no other option, Sally had
+    to find a way, but the only employment she could get was at the Crotus Prenn
+    Asylum. Nobody sought employment there unless they were in dire need. Just like
+    Sally. Without any education, she started at the bottom, doing the hard night
+    shift.
+
+
+    Over the years, her mind had reached its limits, two decades of
+    seeing horrid things that violate the eyes. Memories that are re-played every
+    night. Being abused verbally and physically, by people without limits. Sally
+    saw insanity from the outside, just to catch it herself.
+
+
+    Finally she could
+    not take it any more and concepts of purification emerged inside her. She did
+    what she felt was necessary. As the morning staff arrived one day in September
+    - they found over fifty dead patients, lifeless, in their bed along four staff
+    members, also dead.
+
+
+    Only Sally had survived the night, but her mind was
+    gone, rocking back and forth non-stop. Exactly what happened is only known by
+    her, but it seems that some of them had been choked as they had marks around
+    their necks. They got her into an ambulance, but that ambulance never reached
+    the hospital. It was found crashed in a nearby wood, all the staff dead and Sally
+    nowhere to be found.'
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk2: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk3: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk4: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  build2Name: Hex
+  perk5: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk6: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk7: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk8: {fileID: 11400000, guid: 33f9975f757d0f748906b3987550aabb, type: 2}
+  build3Name: Starstruck
+  perk9: {fileID: 11400000, guid: 08d0a1f75b759814ea132b7d1281bb34, type: 2}
+  perk10: {fileID: 11400000, guid: 83a6cf8fae4a83c40976019ce0526637, type: 2}
+  perk11: {fileID: 11400000, guid: 93c765d910a3a774aa7039e7bdfb847e, type: 2}
+  perk12: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  build4Name: Non-Teachable
+  perk13: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk14: {fileID: 11400000, guid: 59329b2964f20d94ab04b3e762258f60, type: 2}
+  perk15: {fileID: 11400000, guid: ec3890e9854ffc34e92bfd076c3b612a, type: 2}
+  perk16: {fileID: 11400000, guid: d18944060deaa814fb38e32865ef0c8e, type: 2}

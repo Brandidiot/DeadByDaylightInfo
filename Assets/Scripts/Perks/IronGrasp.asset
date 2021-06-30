@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: IronGrasp
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 4e218fcf73d8759468e2c5fd0abf4b0a, type: 3}
+  info: 'While carrying a Survivor:
+
+
+    The Survivor''s Struggle Effects from
+    Wiggling, causing you to strafe sideways, are reduced by <color=#ffff00>75%</color>.
+
+    The
+    time for the Survivor to wiggle free from your grasp is increased by <color=#ffff00>4</color>/<color=#00ff00>8</color>/<color=#800080>12</color>
+    %.'
+  Name: Iron Grasp

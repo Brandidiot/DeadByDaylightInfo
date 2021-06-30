@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: BloodWarden
+  m_EditorClassIdentifier: 
+  icon: {fileID: 5062829645114649964, guid: d51112e44f12cf347bbf7f72b9d6f3a6, type: 3}
+  info: 'As soon as at least one Exit Gate is opened, Blood Warden activates.
+
+    The
+    Auras of Survivors standing within the Exit-Gate area are revealed to you.
+
+    Once
+    per Trial, hooking a Survivor while Blood Warden is active calls upon The Entity
+    to block the exits for all Survivors for <color=#ffff00>30</color>/<color=#00ff00>40</color>/<color=#800080>60</color>
+    seconds.'
+  Name: Blood Warden

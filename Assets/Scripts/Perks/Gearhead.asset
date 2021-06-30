@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: Gearhead
+  m_EditorClassIdentifier: 
+  icon: {fileID: -8918075548434365220, guid: bff3c1935f756334889b5ab72e76e6ec, type: 3}
+  info: 'After hitting a Survivor <color=#ffff00>twice</color> with your Basic Attack,
+    Gearhead activates for <color=#ffff00>20</color>/<color=#00ff00>25</color>/<color=#800080>30</color>
+    seconds.
+
+
+    Each time a Survivor succeeds a Good Skill Check while repairing,
+    the Generator will be revealed by a <color=#ffff00>yellow Aura</color> for as
+    long as it continues being repaired.'
+  Name: Gearhead

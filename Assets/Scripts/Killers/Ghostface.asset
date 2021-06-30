@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Ghostface
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 2032153682048607370, guid: 47aecb2e9edfb704d93c4c4685d27e6b, type: 3}
+  Name: The Ghostface
+  scrollHeight: 2324.479
+  Lore: "Danny Johnson, known as Jed Olsen by some, grabbed the newspaper from the
+    kitchen counter: it was a week old, but his face was on the front page, grainy
+    and sunken. It was one of those muggy afternoons in Florida when heat and humidity
+    permeated everything in the kitchen, making him sweat while standing still. He
+    slouched in a damp chair to read. This article had better be good\u2014his work
+    in Roseville had been outstanding.\n\nGHOST FACE DISAPPEARS June 18, 1993\r\n\nAt
+    first glance, Jed Olsen was a modest and enthusiastic freelancer with experience
+    in a variety of small newspapers. The staff at the Roseville Gazette appreciated
+    how easy-going and honest he seemed, and so he was treated as a stranger for
+    no more than five minutes into his interview:\r\n\n\"Jed quickly spotted the
+    editor-in-chief in the room, gave him a wide smile and a firm handshake, and
+    talked about good old American values. And that was it, he was in.\" \u2014Ex-Contributor
+    at the Roseville Gazette\r\n\nOlsen never justified his erratic career path,
+    which zigzagged between several small towns from Utah to Pennsylvania. There
+    was no verification of his previous jobs. He had a decent portfolio plus a good
+    attitude, and they needed a contributor right away.\n\nTHE ROSEVILLE MURDERS\r\n\nOlsen
+    had been working at the newspaper for five months when the Roseville Murders
+    began: victims from young to old, stabbed to death in their homes. From the reports,
+    the victims seemed chosen at random, yet the killer knew his way around in the
+    houses. The multiple stab wounds indicated a personal motive. No traces of DNA
+    were found. The local police were confounded: the murders were carried with fury
+    akin to a crime of passion yet coldly premeditated.\r\n\nThe murderer also liked
+    to stalk his targets. Two victims had reported being followed on their way home
+    by a dark figure, a few days prior their death. The killer would follow them
+    from Walleyes, a small bar in Northern Roseville, and snap pictures of them at
+    home, while looking for a way in. He could watch the same victim for weeks, meticulously
+    registering their habits and routines. When he felt the urge to kill, he'd visit
+    the most vulnerable victim on his list, and break inside the house quietly.\r\n\nThe
+    whole staff worked on the Roseville Murders story. Olsen was often sent to interview
+    the family of victims and relay official statements from the police. Unknown
+    to everyone at the time, his involvement added to the final body count.\n\nTHE
+    GHOST FACE\r\n\nPanic swelled in Roseville when Olsen produced footage of a hooded
+    figure breaking into a house at night. The masked face, a white blur in the dark,
+    stared at the camera for a second, before disappearing inside. \u201CThe Ghost
+    Face Caught on Tape\u201D was the resulting article, written by Olsen. He seemed
+    proud of his work at the time, enjoying how the whole town feared his ghost stories.\r\n\nWeeks
+    later, Olsen left a note on his work desk and disappeared:\r\n\n\"I hope you
+    liked my stories--I enjoyed bringing them to life. Don't worry, I'm not done.\"
+    \u2013Jed Olsen\r\n\nThe Roseville law enforcement still refuses to comment as
+    Jed Olsen remains at large.\n\nDanny smiled, ripping out the article from the
+    newspaper. When the investigation had been pointing to him, he\u2019d packed
+    his bags and left Roseville swiftly.\r\n\nHe got up, the clammy seat pulling
+    his skin. An oppressive humidity engulfed him as he entered the bedroom. Condensation
+    dribbled on a small misted-up window as bits of cracked wallpaper hung limply.
+    Its floral pattern was covered with gruesome photos and newspaper headlines.
+    Danny pinned the week-old article on top of a picture of lacerated scalps. A
+    faint pang of hunger hit him, and he wondered when he had eaten last. Was it
+    this morning, while washing his knife and clothes? Or was it last night, after
+    following that girl down the street? He couldn't remember clearly.\r\n\nTaking
+    a step back, he admired his work on the wall. His mind drifted, remembering all
+    the articles he\u2019d written, the stories he\u2019d planned, and the scenes
+    he\u2019d brought to life.\r\n\nA shiver ran through him. A chilling breeze transformed
+    the bedroom's humidity into an opaque, freezing Fog. A woman shrieked. Dead leaves
+    crunched under his feet. He smiled in anticipation."
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk2: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk3: {fileID: 11400000, guid: ec3890e9854ffc34e92bfd076c3b612a, type: 2}
+  perk4: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  build2Name: Early Info
+  perk5: {fileID: 11400000, guid: 0b10089baf0bdef4190bafdaf32ebeaf, type: 2}
+  perk6: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk7: {fileID: 11400000, guid: 3aa0f8453fd6a3b4c900ab416b7dbe80, type: 2}
+  perk8: {fileID: 11400000, guid: ec3890e9854ffc34e92bfd076c3b612a, type: 2}
+  build3Name: Non-Undying
+  perk9: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk10: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk11: {fileID: 11400000, guid: ec3890e9854ffc34e92bfd076c3b612a, type: 2}
+  perk12: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  build4Name: Non-Teachable
+  perk13: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk14: {fileID: 11400000, guid: 4a54b42a56c21074795dcc8b2a6570cd, type: 2}
+  perk15: {fileID: 11400000, guid: d18944060deaa814fb38e32865ef0c8e, type: 2}
+  perk16: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}

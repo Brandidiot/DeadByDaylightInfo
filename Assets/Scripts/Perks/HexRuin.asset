@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: HexRuin
+  m_EditorClassIdentifier: 
+  icon: {fileID: 3172466048368850041, guid: 8a874b7f3fb8eb849ae649d667b24571, type: 3}
+  info: 'All Generators automatically regress at <color=#ffff00>100</color>/<color=#00ff00>150</color>/<color=#800080>200</color>
+    % of the normal Regression speed whenever they are not being repaired.
+
+
+    The
+    Hex effects persist as long as the related Hex Totem is standing.'
+  Name: 'Hex: Ruin'

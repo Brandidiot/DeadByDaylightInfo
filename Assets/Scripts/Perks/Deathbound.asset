@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: Deathbound
+  m_EditorClassIdentifier: 
+  icon: {fileID: 1205090770921935315, guid: ec65d8c2de9379144919a0d5116f9c5d, type: 3}
+  info: 'When a Survivor heals another Survivor for the equivalent of <color=#ffff00>1
+    Health State</color> at least <color=#ffa500>32 metres</color> away from you,
+    that Survivor will scream,
+
+    revealing their location and activating Deathbound:
+
+
+    For
+    the next <color=#FF0000>60 seconds</color>, that Survivor suffers from the Oblivious
+    Status Effect when farther than <color=#ffff00>16</color>/<color=#00ff00>12</color>/<color=#800080>8</color>
+    metres away from the healed Survivor.'
+  Name: Deathbound

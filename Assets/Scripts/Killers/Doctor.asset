@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Doctor
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 4923159571906479061, guid: 841284d810a0e3c4880d9bfc221f6248, type: 3}
+  Name: The Doctor
+  scrollHeight: 1605.43
+  Lore: "From an early age, Herman Carter understood the human psyche. To analyse
+    and de-construct something as powerful as the brain intrigued him. He was an
+    apt pupil and gained the attention of his teachers. He excelled in high-school
+    and was published in \"Partisan\" \u2014 a psychology gazette. Within a year,
+    Carter was fast-tracked into Yale's advanced neuroscience programme, really a
+    front for the CIA. Brainpower is a must if you're about to conquer the world
+    and demolish foes across the pond. The CIA understood this, so interrogation
+    and intelligence became their number one priority. All they needed were brilliant
+    people \u2014 like Carter.\n\r\nCarter and other top-tier recruits were transferred
+    off-campus and into a secret black site facility in Illinois known as L\xE9ry's
+    Memorial Institute. A prot\xE9g\xE9 craves a mentor, and that's where Dr Otto
+    Stamper stepped in, who taught Carter that information is everything and knowledge
+    is power. He was given all instruments needed, a guiding hand, and more or less
+    everything he asked for. He never realised that sunlight had started to become
+    so scarce, that he too was kept in the dark. Because knowledge doesn't only give
+    you power, it also transforms you into a threat.\r\n\nTo extract information
+    was his mission. Dr Stamper encouraged Carter to go further and not to consider
+    this a normal medical facility \u2014 no eyes were watching them, there were
+    no rules to abide. The agency just pointed Carter in the right direction, then
+    he started to take a few steps back as he saw how Carter could walk on his own.
+    Docile test subjects were exchanged for real, live spies. People that played
+    a role in the troubles outside the facility. Carter shouldered this new role
+    \u2014 Project Awakening took form, and on paper Carter described it as \"experimental
+    interrogation\". It was approved and over a few months, nobody knocked on his
+    door. Screams and moans filled the corridor outside his lab, but wars skew people
+    and what they accept \u2014 as long as the enemy is kept at bay. The fluorescent
+    lights flickered more and more often. Electro-convulsive Treatment became a standard
+    dish on the menu. Prisoners held at the facility begged the guards to take them
+    to any other lab but Carter's. Rumours were disregarded in the beginning.\r\n\nOver
+    the years, Carter became known as The Doctor and no one ever questioned if he
+    had even held a medical certificate or even what happened to the prisoners after
+    they had given up their information. It was only after the L\xE9ry's Memorial
+    Institute went silent for a week that they finally uncovered the true horror
+    of what had happened there.\r\n\nCarter's experimental information extraction
+    had turned to horrific and bizarre torture. Patients and prisoners were found
+    dead or in vegetative states with all types of head trauma. In his office, they
+    found the most terrible discovery of all. Dr Stamper himself, his head peeled
+    open and an array of electrodes and sensors inserted into his still working,
+    but annihilated brain. There was no sign of Herman \"The Doctor\" Carter, but
+    his research papers suggested that he had been using the prisoners as part of
+    awful ECT experiments as he searched for the panacea of mind control.\r\n\nThe
+    government didn't want to know. The black site was condemned and all knowledge
+    of the L\xE9ry's Memorial Institute redacted forever."
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 92b4d0559abb0ae4cae59b3ada212c1d, type: 2}
+  perk2: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk3: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk4: {fileID: 11400000, guid: f25f16a443c69b24fa55c38dae12483a, type: 2}
+  build2Name: Non-Undying
+  perk5: {fileID: 11400000, guid: f25f16a443c69b24fa55c38dae12483a, type: 2}
+  perk6: {fileID: 11400000, guid: 3aa0f8453fd6a3b4c900ab416b7dbe80, type: 2}
+  perk7: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk8: {fileID: 11400000, guid: 92b4d0559abb0ae4cae59b3ada212c1d, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk10: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}
+  perk11: {fileID: 11400000, guid: 6f0325e051cc6bb4594166e9384a6597, type: 2}
+  perk12: {fileID: 11400000, guid: d18944060deaa814fb38e32865ef0c8e, type: 2}
+  build4Name: BBQ
+  perk13: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk14: {fileID: 11400000, guid: 3aa0f8453fd6a3b4c900ab416b7dbe80, type: 2}
+  perk15: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk16: {fileID: 11400000, guid: 92b4d0559abb0ae4cae59b3ada212c1d, type: 2}

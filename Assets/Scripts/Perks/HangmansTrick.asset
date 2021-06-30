@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: HangmansTrick
+  m_EditorClassIdentifier: 
+  icon: {fileID: -8533597444805713064, guid: b9336e6ccea9b6842b1f5895a1fa85f9, type: 3}
+  info: 'Unlocks potential in your Aura-reading ability and your ingenious modifications
+    to Hooks alert you of tampering.
+
+    Gain a Loud Noise notification whenever
+    a Survivor begins sabotaging a Hook.
+
+    While carrying a Survivor, see the
+    Aura of any Survivor within <color=#ffff00>2</color>/<color=#00ff00>4</color>/<color=#800080>6</color>
+    metres of any Hook.'
+  Name: Hangman's Trick

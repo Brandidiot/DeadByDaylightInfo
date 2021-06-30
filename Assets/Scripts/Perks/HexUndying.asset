@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: HexUndying
+  m_EditorClassIdentifier: 
+  icon: {fileID: -1928050241167187807, guid: 9f951925d3c52cc489876fe412716d51, type: 3}
+  info: 'The Auras of Survivors within <color=#ffff00>2</color>/<color=#00ff00>3</color>/<color=#800080>4</color>
+    meters of any Dull Totem are revealed to you.
+
+
+    When another Perk''s Hex
+    Totem is cleansed, its Hex is transferred to the Hex: Undying Totem, including
+    any accumulated Tokens,
+
+    disabling Hex: Undying instead.
+
+
+    The Hex effects
+    persist as long as the related Hex Totem is standing.'
+  Name: 'Hex: Undying'

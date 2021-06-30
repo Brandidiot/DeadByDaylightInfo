@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Freddie
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 4196666770117288056, guid: 4e25394ad2661cd409788e55a40012b1, type: 3}
+  Name: The Nightmare
+  scrollHeight: 1760.036
+  Lore: "Even while he lived, Freddy Krueger was a creature of nightmares for those
+    who truly knew him. Hiding behind a mask of warmth and friendliness, Freddy's
+    actual temperament was known only to his victims. When those victims were finally
+    heard, the parents of Springwood tracked Freddy down and took the law into their
+    own hands. They thought that fire had rid them of a monster that night, that
+    their children were finally safe, but evil as strong as his has a way of surviving.\r\n\nYears
+    passed, the horror was buried, the victims mercifully forgot. Then, somehow,
+    Freddy returned, and dreams became nightmares once again.\r\n\nFreddy focused
+    his anger on those he felt had wronged him, building up to his one true obsession,
+    Nancy Holbrook. But he underestimated her strength and resourcefulness. Together
+    with her friend Quentin Smith, she managed to weaken Freddy, mutilating him and
+    leaving him for dead once more.\r\n\nDeath didn't want Freddy the first time
+    he encountered it, why did they think it would take him now? He emerged once
+    more, consumed with vengeance. Then he turned his sights on the boy who had blocked
+    his path to Nancy, his number one.\r\n\nFreddy invaded Quentin's dreams, terrorising
+    him night after night, until his strength and defences would be at their lowest.
+    When the time was right, he forced the boy to return to the dark reflection of
+    Badham Preschool. Here he would have his final revenge.\r\n\nFreddy stalked the
+    boy through the school's halls. He took his time, savouring every moment of the
+    hunt. This was what he enjoyed the most, the smell of their sweat in the air,
+    the ragged gasps of their terrified breath. They were his to toy with.\r\n\nThere
+    was the boy, at the end of a long corridor. Too tired and scared to run anymore?
+    Resigned to his fate? Freddy closed in, arms wide, claws raking the wall. Their
+    tips traced along a pipe, the metallic shrieking only adding to the boy\u2019s
+    apprehension.\r\n\nA shower of sparks rained on the ground, and into the liquid
+    that covered the tiled floor. A blue flame blossomed and quickly engulfed the
+    room.\r\n\nThe boy took flight as Freddy burst from the flames in a fury. Rooms
+    and walls raced past in a blur until they were in Freddy's basement. There would
+    be no escape from here.\r\n\nSlowly Freddy closed in on the boy. His fear was
+    so strong now that Freddy could almost taste it, but his eyes burned with a defiant
+    hatred that was almost admirable.\r\n\nFreddy drew back his claws.\r\n\r\nThen
+    Freddy felt another presence with him; something old, powerful and dark. A miasma
+    enveloped him and the only sensation was a sound like wooden beams flexing and
+    creaking in the distance. The echoing groan of metal crushed against metal. Something
+    arcane and unknowable, half-way between language and pure terror.\r\n\nA moment
+    of falling and spinning and then Freddy was back in the school. But not his school.
+    It looked the same, but it felt different. His powers were tempered in some ways
+    and focused in others. The boy had gone for now, but another prey walked the
+    hallways. Some would be inconsequential; others would become his new favourites.
+    All would fall before his claws."
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk2: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk3: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk4: {fileID: 11400000, guid: 92b4d0559abb0ae4cae59b3ada212c1d, type: 2}
+  build2Name: Non-Undying
+  perk5: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk6: {fileID: 11400000, guid: 4a54b42a56c21074795dcc8b2a6570cd, type: 2}
+  perk7: {fileID: 11400000, guid: 77379ba1f61bb4e47881f2b9eedbb28f, type: 2}
+  perk8: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk10: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}
+  perk11: {fileID: 11400000, guid: b673f5236792c834ba68c2e470e5ed9d, type: 2}
+  perk12: {fileID: 11400000, guid: 67aad5a2b6b0e3a4692e071a3b160762, type: 2}
+  build4Name: BBQ
+  perk13: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk14: {fileID: 11400000, guid: 3aa0f8453fd6a3b4c900ab416b7dbe80, type: 2}
+  perk15: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk16: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}

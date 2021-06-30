@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: Overcharge
+  m_EditorClassIdentifier: 
+  icon: {fileID: -5961133975540574342, guid: d834fef344d9b594fb94525cda5f3bf4, type: 3}
+  info: 'Damaging a Generator overcharges it:
+
+
+    The next Survivor interacting
+    with it will be faced with a difficult Skill Check.
+
+    Failing the Skill Check
+    results in an additional Progression loss of <color=#ffff00>3</color>/<color=#00ff00>4</color>/<color=#800080>5</color>
+    %.
+
+    Succeeding the Skill Check does not grant any bonus Progression.'
+  Name: Overcharge

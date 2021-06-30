@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: CorruptIntervention
+  m_EditorClassIdentifier: 
+  icon: {fileID: -6636936517549901524, guid: c952f5f3603e4034bb4ea593df5d32b9, type: 3}
+  info: At the start of the Trial, the <color=#ffff00>3 Generators</color> located
+    farthest from you are blocked by The Entity for <color=#ffff00>80</color>/<color=#00ff00>100</color>/<color=#800080>120</color>
+    seconds.
+  Name: Corrupt Intervention

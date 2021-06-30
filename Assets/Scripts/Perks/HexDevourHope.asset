@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: HexDevourHope
+  m_EditorClassIdentifier: 
+  icon: {fileID: 3739778610938959699, guid: 3ec40c815e48dfa48a9dca8f3fb7ee20, type: 3}
+  info: 'Each time a Survivor is rescued from a Hook when you are at least <color=#ffff00>24
+    metres</color> away, Devour Hope receives <color=#ffff00>1 Token</color>:
+
+
+    <color=#800080>2
+    Tokens</color>: <color=#ffa500>10 seconds</color> after hooking a Survivor, gain
+    a <color=#ffff00>3</color>/<color=#00ff00>4</color>/<color=#800080>5</color>
+    % Haste Status Effect for the next <color=#FF0000>10 seconds</color>.
+
+    <color=#800080>3
+    Tokens</color>: Survivors suffer permanently from the Exposed Status Effect.
+
+    <color=#800080>5
+    Tokens</color>: You are granted the ability to kill all Survivors by your own
+    hand.
+
+    The Hex effects persist as long as the related Hex Totem IconHelpLoading
+    totem.png is standing.'
+  Name: 'Hex: Devour Hope'

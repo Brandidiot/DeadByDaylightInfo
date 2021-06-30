@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: Discordance
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2829216365044840249, guid: 9c1180e30e4e4a0438be8616d049b7fb, type: 3}
+  info: 'Any Generator within a range of <color=#ffff00>64</color>/<color=#00ff00>96</color>/<color=#800080>128</color>
+    metres that is being repaired by <color=#ffff00>2 or more Survivors</color> is
+    marked by a <color=#ffff00>yellow Aura</color>.
+
+    When the Generator is first
+    highlighted, Discordance triggers a Loud Noise notification on the Generator.
+
+    After
+    the Generator is no longer within range or is being repaired by just <color=#ffa500>1
+    Survivor</color>, the highlighted Aura will linger for another <color=#FF0000>4
+    seconds</color>.'
+  Name: Discordance

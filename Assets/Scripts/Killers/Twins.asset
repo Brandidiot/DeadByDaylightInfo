@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Twins
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 2869723424284737042, guid: d2c5642617aaa9041b576e6fa3ab271a, type: 3}
+  Name: The Twins
+  scrollHeight: 3395.822
+  Lore: "A pair of conjoined twins, Charlotte and Victor Deshayes formed an emotional
+    bond like none other. The unlikeliness of their successful birth in the 17th
+    century could be described as miraculous, yet it immediately brought about their
+    life of persecution. The twins emerged with Victor's lower body affixed into
+    the chest of his sister, legs twisted around her muscles and organs. He was smaller
+    than Charlotte, grown as if he were an appendage of her body rather than a fully
+    formed boy. As the newborns screeched, so too did the midwife who delivered them,
+    running from the home, yelling of a demon birthed by a witch. So began the hunting
+    of Charlotte, Victor, and their mother Madeleine.\r\n\nThe coming years were
+    fleeting memories for the twins, yet they were the closest thing to a normal
+    life they would know. The journey with their mother was what they believed all
+    children underwent, the games of running and hiding through France's countryside
+    being an ordinary occurrence. At the age of five, a new challenge to the game
+    was presented as their mother fell ill. Pale and exhausted, Madeleine had no
+    choice, but to pass responsibility of collecting food onto Charlotte. The girl,
+    burdened under extra clothing that concealed Victor's protruding body, set out
+    from their forest tent and marched to the nearby town. Though a peculiar sight,
+    she did what she had been trained for, waiting for an opening at the market and
+    swiping whatever food she could. It was a victory in the game, but one short-lived.\r\n\nAfter
+    midnight, glowing flames surrounded the family's encampment, bobbing through
+    the darkness. A single commanding shout broke the night's silence and a mob of
+    witch hunters streamed in. Grubby hands tore the twins from their bed, Charlotte
+    frantically kicking all who approached. Madeleine cried for her children, her
+    voice abruptly silenced by a club to her skull. Victor shrieked, the wailing
+    of a trapped rat.\r\n\nThe hunters coordinated quickly. A judge on-hand declared
+    Madeleine guilty of witchcraft, evidenced by her demon spawn. Within minutes,
+    they shackled her unconscious body to a tree, surrounding her feet with dry twigs
+    and moss. As she awoke, she did not struggle, only begged her children to turn
+    away. They would be given no choice. The twins were forced to watch as the torch
+    was lit, and they watched as flames leapt up their mother's skirt, charring and
+    sizzling her flesh. They watched as fat dripped from her body, and her face bubbled
+    and twisted. They watched until the screams that tore her vocal cords were no
+    more, and all that was left was the crackling of embers and a nauseating stench.\r\n\nWhatever
+    joy and goodness were in them died with their mother. Caged and transported to
+    an old wooden temple, they were sold to a secretive group clad in dark cloaks.
+    Victor reacted with the ferocity of a rabid beast at any who approached, clawing
+    and biting. The only solace that could calm him was the embrace of his sister.
+    Charlotte, bitter and hateful to all but her brother, found purpose in being
+    his protector.\r\n\nWithin the temple, they were exposed to unusual experiments
+    \u2014 some cruel, many simply baffling. One day they would be made to break
+    the neck of a small grey bird. The next, they would bleed their fingers into
+    a vase of roses. Every seventh day, they would sleep with the branch of a damp
+    oak beneath their pillow. Then there was the chanting: a never-ending chorus
+    from cloaked figures on scheduled intervals.\r\n\nIn time, a final experiment
+    was planned. Two robed figures herded the twins to the centre of the temple,
+    holding Charlotte upon an altar in a room lit with candelabras. The wrinkled
+    face of a man peered from under his hood, placing a hand on the forehead of each
+    twin, making careful examination of their skulls. Memento mori, he uttered, as
+    he withdrew a shining blade.\r\n\nCharlotte rolled to her side, shifting her
+    brother off the altar. With a screech, he stretched his arm as far as he could,
+    knocking a candelabra to the ground. The flames took to the dry wood immediately.
+    They swept over the floor, igniting the black robes that brushed against it.
+    Screams of agony pierced the chaos, invigorating Charlotte. She dashed through
+    the inferno, vision concealed with nothing, but black smoke and blazing flame.
+    A painful heaviness filled her lungs. No exit could be found, every step leading
+    to overwhelming heat. She fell to her knees, suffocating, and then saw it \u2014
+    sunlight, trees. She stumbled from the fire into dewy grass. Without looking
+    back, she ran into the forest until she collapsed.\r\n\nWhen Charlotte opened
+    her eyes, she reached for Victor's hand. He made no attempt to budge. His body
+    hung helplessly from her torso. She clasped his face, stared into his sad, still
+    eyes. The movements she was accustomed to \u2014 his body pulling at her skin,
+    his legs prodding at the cavity in her chest \u2014 were no more. Victor was
+    dead.\r\n\nCharlotte had no choice, but to continue moving as she mourned, fearing
+    black cloaks and witch hunters were prowling. She concealed her brother's corpse
+    under her clothing and marched for the sewers of a nearby city. There, she set
+    up camp, emerging often to steal whatever food she could, resorting to raiding
+    barns for pig slop when desperation set in. Throughout the years, Victor's corpse
+    rotted as his limbs oozed and blackened, yet his body demonstrated resistance
+    to complete decomposition, as if his sister's blood still coursed through him.
+    Protecting his lifeless body became Charlotte's sole reason for being, refusing
+    to ever be separated from the only family she had left.\r\n\nLife into her teenage
+    years was a game of survival. Her hatred for humanity grew each day under the
+    realisation they would never leave her be. No matter how many died during her
+    botched robberies and desperate attempts to escape, there would always be more
+    to pursue and sling words of condemnation at her \u2014 monster, demon, witch.
+    And it was the black cloaks who were the worst of them. Their hunt for her was
+    unending, forcing her to constantly abandon shelter and run.\r\n\nFor years,
+    Charlotte fled, drawing blood out of necessity, cradling her long-dead brother
+    in the night. During a frigid winter, her body began to break down. Food was
+    scarce and the refuge of rickety shacks were no use against freezing temperatures.
+    Sickle in hand, she sheltered near her campfire in the woods, not knowing if
+    the black cloaks would take her before the cold did. As frost crystallised around
+    her nostrils and her lips took on a gentle blue hue, Charlotte felt something
+    she had never experienced: acceptance. She closed her eyes, opening herself to
+    the serenity of death when \u2014 a shriek, shrill and vicious pierced her ears.
+    Victor spasmed and flailed from her chest, a cloud of fog encompassing him. Before
+    she could react, he spilled from her in a bloody puddle, landing on the snow
+    and running.\r\n\nPulling herself from the edge of death, she gave chase. Calling
+    his name, she ran through the forest until her legs could hardly carry her, until
+    finally, within her view, was Victor, sitting at the edge of a thick fog. His
+    face, twisted and feral, screamed as a dark hooded figure emerged from the fog,
+    grabbed his arm, and seized him. The serenity that had crept into Charlotte was
+    extinguished, replaced with the seething hatred and rage she had depended on
+    for so long. With a tight grip on her sickle, she charged into the fog, prepared
+    to eviscerate any who set foot near her brother."
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: f25f16a443c69b24fa55c38dae12483a, type: 2}
+  perk2: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk3: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk4: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  build2Name: Non-Undying
+  perk5: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk6: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk7: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk8: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: d32d055b00e36dc41873ecb9a85b3d27, type: 2}
+  perk10: {fileID: 11400000, guid: d4d2e0463fcdedd44bd13678e1301f53, type: 2}
+  perk11: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk12: {fileID: 11400000, guid: 4ec994370d727a8439f8b9231a70a5c8, type: 2}
+  build4Name: 
+  perk13: {fileID: 0}
+  perk14: {fileID: 0}
+  perk15: {fileID: 0}
+  perk16: {fileID: 0}

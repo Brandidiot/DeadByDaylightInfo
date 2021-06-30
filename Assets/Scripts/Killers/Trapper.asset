@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Trapper
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -7718398469036257577, guid: 432ebb69b9dcdf04692e973e75759d02, type: 3}
+  Name: The Trapper
+  scrollHeight: 696.6268
+  Lore: 'Evan MacMillan idolised his father. It wasn''t just that he was heir to
+    a great fortune, it was the way he ran the estate. Raised under his firm hand,
+    Evan had taken to running the workforce with an iron hand. Production was always
+    high and the MacMillan Estate prospered under father and son.
+
+
+
+    As Archie
+    MacMillan''s mental health slowly disintegrated, Evan protected him from the
+    herd who wanted a piece of the fortune. No matter what his father asked of him,
+    Evan would do.
+
+
+
+    When Archie MacMillan finally snapped, Evan became his
+    enforcer in what would become known as the worst mass murder in modern history.
+    They never proved that Evan lead over a hundred men into those dark tunnels before
+    detonating the explosives and sealing them to their fate. The tale of the MacMillan
+    Estate is a tale of wealth and power gone very wrong.
+
+
+
+    How many victims
+    fell to the hands of father and son is unknown. No record is ever made of what
+    became of Evan MacMillan. His father is another unsolved puzzle, found trapped
+    in the locked basement of his own warehouse - starved and abandoned.'
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk2: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk3: {fileID: 11400000, guid: 4a54b42a56c21074795dcc8b2a6570cd, type: 2}
+  perk4: {fileID: 11400000, guid: 92b4d0559abb0ae4cae59b3ada212c1d, type: 2}
+  build2Name: Hex
+  perk5: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk6: {fileID: 11400000, guid: 40648968e4d09e64eab3f6adb7ea17c9, type: 2}
+  perk7: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk8: {fileID: 11400000, guid: 33f9975f757d0f748906b3987550aabb, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: d18944060deaa814fb38e32865ef0c8e, type: 2}
+  perk10: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}
+  perk11: {fileID: 11400000, guid: 83a6cf8fae4a83c40976019ce0526637, type: 2}
+  perk12: {fileID: 11400000, guid: 983866f0bba1f3849aaabb8fed51df43, type: 2}
+  build4Name: BBQ
+  perk13: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk14: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk15: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk16: {fileID: 11400000, guid: 92b4d0559abb0ae4cae59b3ada212c1d, type: 2}

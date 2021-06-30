@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: HexHuntressLullaby
+  m_EditorClassIdentifier: 
+  icon: {fileID: -1837845505971592532, guid: 5dd9eb47ee1efb74099a68b20b8bfd2f, type: 3}
+  info: 'Your hunt is an irresistible song of dread which muddles your prey''s attention.
+
+    Survivors
+    receive a <color=#ffff00>2</color>/<color=#00ff00>4</color>/<color=#800080>6</color>
+    % Regression penalty on Failed Skill Checks for Repair and Healing actions.
+
+
+    Hex:
+    Huntress Lullaby grows in power each time you hook a Survivor, gaining <color=#ffff00>1
+    Token</color>, and affecting Repair and Healing Skill Checks:
+
+
+    <color=#800080>1
+    Token</color>: shortens the time between the Warning sound and the Skill Check
+    by <color=#ffa500>-14%</color>.
+
+    <color=#800080>2 Tokens</color>: shortens
+    the time between the Warning sound and the Skill Check by <color=#FF0000>-28%</color>.
+
+    <color=#800080>3
+    Tokens</color>: shortens the time between the Warning sound and the Skill Check
+    by <color=#800080>-42%</color>.
+
+    <color=#800080>4 Tokens</color>: shortens
+    the time between the Warning sound and the Skill Check by <color=#00ff00>-56%</color>.
+
+    <color=#800080>5
+    Tokens</color>: disables the Warning sound.
+
+
+    The Hex effects persist as
+    long as the related Hex Totem is standing.'
+  Name: 'Hex: Huntress Lullaby'

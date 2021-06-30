@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Trickster
+  m_EditorClassIdentifier: 
+  Icon: {fileID: 3154505614304312604, guid: fee78d404a2988445bd8488c29f77a78, type: 3}
+  Name: The Trickster
+  scrollHeight: 3692.5
+  Lore: "Ji-Woon Hak thrived under the attention of others, energized by every eye
+    that watched him and every tongue that spoke his name. Amidst the prestige, he
+    had only one desire: more. Even as a child he found ways to draw crowds. Working
+    at his family's restaurant, he attracted business with spectacles he performed
+    using throwing knives. Gullible tourists believed this was a traditional South
+    Korean experience, gladly parting with their money to witness it. Ji-Woon's father
+    spent the restaurant's earnings on dancing and vocal lessons for his son, pushing
+    him to attain the fame he never could.\r\n\nJi-Woon did not disappoint. After
+    years showcasing his abilities to nobodies at talent shows, he hit the track
+    to stardom. Yun-Jin Lee, a producer at Mightee One Entertainment, recruited Ji-Woon
+    into her training program. He transferred to a dormitory in Seoul where, for
+    fourteen hours a day, he was crafted into a star, taught how to move and sing,
+    how to carry himself with the right balance of confidence and modesty.\r\n\nDraining
+    as the process was, it worked. Yun-Jin selected Ji-Woon to join the band NO SPIN,
+    bringing a raw energy to their tracks. Fame was almost immediate. Ji-Woon lived
+    in a daze of interviews and adoration, and though the frenzied schedule exhausted
+    his bandmates, he was invigorated. Each day was an affirmation that he was greater
+    than the mediocrity society spewed out.\r\n\nBut over time, the champagne grew
+    stale. When he looked at his fans, he saw their joy and envy split five ways,
+    thinned out between each band member. The validation that had surged through
+    him left a desperate yearning for more.\r\n\nJi-Woon kept up impressions, mimicking
+    a charm long buried under loathing. He recorded the latest NO SPIN album with
+    his bandmates, never missing a beat. After a lengthy lunch break, he returned
+    to the studio to discover fate had granted him a gift. The scent of burning wires
+    was unmistakable. He rushed to the control room, finding the door blocked by
+    fallen speakers. On the other side, his bandmates pounded on the door, their
+    cries accompanied by the crackling of flames.\r\n\nJi-Woon called to them, dashing
+    to the speakers, grabbing one and\u2014stopping. He froze. Each breath was a
+    conscious, deliberate process requiring all his attention, the nearby cries hardly
+    audible until, slowly, he backed away. And then he heard it. They were screaming
+    his name as they burnt. Screaming for him to save them. Ji-Woon! Ji-Woon! Ji-Woon
+    Hak! It was the most beautiful thing he'd ever heard. When the fire crew arrived,
+    his tears were genuine.\r\n\nJi-Woon was celebrated as a tragic figure, a hero
+    who did all he could in a futile attempt to save his friends. Yun-Jin paraded
+    him through interviews until it was time to rebrand. He was reborn as The Trickster,
+    a solo artist who produced his own songs, sporting a soft heart beneath a wild
+    exterior. But, away from concert set-ups and television stages, something darker
+    grew.\r\n\nHe targeted those who lived alone, coming to them in the night. The
+    first was a college music student with a captivating voice. Ji-Woon woke him
+    with a baseball bat to the skull, binding his arms and legs, gagging him with
+    a rag duct taped into his mouth. He tortured him for hours, dissecting him alive.
+    Yet there was something missing\u2014a sound, a connection. He wanted to hear
+    the victim's wonderous voice pleading as he cut his belly open, but all he received
+    was muffled cries through a rag.\r\n\nHe learned and adjusted.\r\n\nVictims had
+    to be abducted, driven to an abandoned building where he could let their voices
+    carry unrestrained emotion. He made music from them, prodding in the right places
+    to evoke different types of shrieks and howls. Stabbing the quadratus lumborum
+    elicited a long, guttural wail, while slashing the carotid artery created a sound
+    like a cat being strangled. There was honesty in their suffering. Ji-Woon recorded
+    each session, synthesizing and working them into his songs, hiding them behind
+    layers of melodies.\r\n\nHe was elated with his work. He left hints for police,
+    arranging a mink boa from a recent photoshoot around a victim's slashed throat.
+    For his next killing, he removed the teeth from a man that a boxer in one of
+    his music videos was without. During a particularly audacious plea for attention,
+    he killed a fan he had met during a VIP meet-up, replacing her eyes with his
+    diamond cufflinks and writing I HAVE SEEN GOD in blood across her chest. Each
+    scene was a dazzling spectacle.\r\n\nBetween music and murder, Ji-Woon's work
+    was discussed globally. However, as violence became his preferred art style,
+    his music career took a hit. Revenue was down and Mightee One executives pointed
+    their fingers at him. Yun-Jin, with professional fury, came to his defence, but
+    she was outnumbered. It was decided that Ji-Woon could no longer self-produce
+    his songs.\r\n\nThe decision was devastating. His tracks fused genuine humanity
+    into music, yet executives rejected anything that wasn't generic and expected.
+    And so be it. If they couldn't understand his art, he would incorporate them
+    into it until they did.\r\n\nHe had three months until he was to perform a private
+    show for Mightee One's board members; three months to plan his magnum opus. He
+    transferred obscene amounts of money to a veterinarian in exchange for cannisters
+    of nitrous oxide, then bribed the stage technician of Mightee One's private theatre
+    for access to the room. His celebrity granted him a benefit of the doubt no regular
+    person could conceive. When the show was ready, gas seeped into the room as executives
+    and stagehands awaited Ji-Woon, conveniently running behind schedule.\r\n\nWhen
+    he arrived, half-conscious bodies were splayed in their seats and crawling across
+    the floor. He worked quickly, binding everyone, pausing only when he came to
+    Yun-Jin\u2014the woman who had plucked him from a mudhole and set him on the
+    path he deserved. She would be rewarded, granted special access to the coming
+    display of wonder. Even under sedation, she fought, a raging storm within her,
+    far stronger than the others. He propped her up as the lone audience member,
+    prying her eyes open. The others, snivelling and sobbing, were brought on stage
+    to perform their final act. With a contemptable sneer, he slapped makeup onto
+    their faces and shone stage lights upon them. They became his instruments.\r\n\nTo
+    the sound of self-produced melodies, he tortured them, gracefully dashing from
+    one body to another, conducting an operatic crescendo from their wailings. They
+    shouted, whimpered, screamed, cried for their loved ones, cried for their mothers.
+    It was a magnificent outpouring of emotion, of what it meant to be human, and
+    they did it with eyes fixed on Ji-Woon.\r\n\nViscera drained from the stage until,
+    with the toss of his throwing knife, the final human instrument fell silent and
+    the music stopped. Covered in sweat and blood, an exhausted Ji-Woon looked to
+    Yun-Jin and bowed. Curtain call. He had attained perfection. With blade in hand,
+    he made his way to Yun-Jin, prepared to tie up loose ends before the credits
+    rolled. But as he reached her\u2014\r\n\nThe Fog.\r\n\nFrom where, he didn\u2019t
+    know, but it billowed around them, damp, cool... comfortable. He saw the grand
+    stage: hospitals and temples, forests and slaughterhouses\u2014an eternal plane
+    adorned with rusted hooks, sustained by the million eyes that would watch him,
+    run from him, experience him. All he had to do was accept, become an implement
+    of The Fog and, most importantly, make them scream.\r\n\nEncore!"
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk2: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk3: {fileID: 11400000, guid: f25f16a443c69b24fa55c38dae12483a, type: 2}
+  perk4: {fileID: 11400000, guid: 1abe75d6cda2a464db5b09e4e80dff0e, type: 2}
+  build2Name: Non-Teachable
+  perk5: {fileID: 11400000, guid: d985cb682e53cdc44964f1fc1ce18578, type: 2}
+  perk6: {fileID: 11400000, guid: 50b278cc992449d4aa388cba94a4783d, type: 2}
+  perk7: {fileID: 11400000, guid: 1c0c196db8d7aa64eb1a83f5d3b24463, type: 2}
+  perk8: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}
+  build3Name: 
+  perk9: {fileID: 0}
+  perk10: {fileID: 0}
+  perk11: {fileID: 0}
+  perk12: {fileID: 0}
+  build4Name: 
+  perk13: {fileID: 0}
+  perk14: {fileID: 0}
+  perk15: {fileID: 0}
+  perk16: {fileID: 0}

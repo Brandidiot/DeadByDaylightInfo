@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Legion
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -9011813278544704667, guid: 2f85e7f3c99b59347a418d8c27835644, type: 3}
+  Name: The Legion
+  scrollHeight: 1760.786
+  Lore: "Frank Morrison was nineteen and had little to show for it. He'd stopped
+    attending school after being kicked out of the basketball team for shoving a
+    referee into the stands. Yet Frank was a man of potential, who could light up
+    a room despite his bleak childhood. At six years old, he'd been taken away from
+    Calgary to start a circuit of foster homes. No matter how many times he'd lashed
+    out, threw tantrums and got into fights, they'd kept moving him to new, unfamiliar
+    houses. His last move had been three years prior when his last foster dad, Clive
+    Andrews, had picked him up from the adoption centre. They'd been on the road
+    for seven hours before reaching a small bungalow in Ormond. It would be the longest
+    time they'd spend together. Clive was too busy trading cheques from Family Services
+    for drinks at the bar.\r\n\nOrmond was a small, stale place; a remote town of
+    six thousand inhabitants where grey winters drag on for most of the year. Frank
+    did everything he could to get into another adoptive family, but he changed his
+    mind when he caught the attention of Julie, a beautiful girl who was convinced
+    that she deserved better than a life in Ormond, and Frank, as an outsider, was
+    her ticket out. Frank attended the parties she threw where everyone was younger
+    than him and easily impressed, which he liked. He met the impulsive Joey, who
+    liked to show off, and the shy, na\xEFve Susie, who was Julie's best friend.\r\n\nThey
+    would hang out at an abandoned lodge up Mount Ormond. Their time together was
+    the perfect break from the boring conformity of their small, insignificant everyday
+    lives. Frank saw it as an opportunity to shape their lack of experience into
+    something powerful. He lined up nights of debauchery and rampage, testing their
+    limits. Bullying , vandalism, and theft were essentially their weekend plans.
+    It came to a point where they would do anything he asked. Nothing was off-limits
+    when they put their masks on. One evening, Frank dared Joey to vandalise the
+    store that had recently fired him. They snuck inside easily enough, as the building
+    was supposed to be empty after closing hours. But a cleaner who was still there
+    grabbed Julie as soon as she came near. Hearing her stifled cries, a dark impulse
+    took over Frank. He rushed to her aid, knife in hand, and without hesitating,
+    planted the blade into the cleaner's back.\r\n\nAs the group stared at Frank
+    in shock, he ordered them to finish the job. Joey clenched his jaw, grabbed the
+    knife, and stabbed the bleeding man in the ribs. Susie didn't want to do it.
+    Frank shouted at her; they had to finish what they'd started. Julie closed her
+    eyes and slid the knife into the man's chest. She handed the wet blade to Susie:
+    they were all in this together now. Susie stared at Julie in disbelief as Frank
+    grabbed her trembling hands and inserted the knife deep into the man's throat.
+    Frank told them to move fast; they mopped the blood off the floor, stashed the
+    body in the trunk of Joey's car, and drove up Mount Ormond.\r\n\nAll four were
+    digging in the muddy snow to dispose of the body when Frank spotted something
+    moving through the woods. He grabbed his knife and broke from the group to check
+    it out. The Fog thickened around Frank, becoming so dense that he soon could
+    no longer see ahead. He retraced his steps and stumbled onto an ominous trail.
+    He followed the eerie path, as if called by the darkness. Julie, Susie, and Joey
+    finished digging, but Frank was nowhere to be seen. Julie spotted his muddy footsteps
+    in the snow and the three of them followed the trail, which took them deeper
+    into the woods. When Julie, Susie, and Joey did not return home that night, their
+    parents thought they'd run away with Frank. Each family came up with a different
+    theory. The mood in the town changed, however, when a body was found by an abandoned
+    lodge up Mount Ormond."
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk2: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk3: {fileID: 11400000, guid: e2000557a6718444392b5e4a60665dda, type: 2}
+  perk4: {fileID: 11400000, guid: f25f16a443c69b24fa55c38dae12483a, type: 2}
+  build2Name: Gen Defense
+  perk5: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk6: {fileID: 11400000, guid: 3aa0f8453fd6a3b4c900ab416b7dbe80, type: 2}
+  perk7: {fileID: 11400000, guid: 4a54b42a56c21074795dcc8b2a6570cd, type: 2}
+  perk8: {fileID: 11400000, guid: e2000557a6718444392b5e4a60665dda, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: f25f16a443c69b24fa55c38dae12483a, type: 2}
+  perk10: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk11: {fileID: 11400000, guid: 1c0c196db8d7aa64eb1a83f5d3b24463, type: 2}
+  perk12: {fileID: 11400000, guid: f6c290c1513297d46a85bbd8a6ea41a8, type: 2}
+  build4Name: BBQ
+  perk13: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk14: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk15: {fileID: 11400000, guid: 983866f0bba1f3849aaabb8fed51df43, type: 2}
+  perk16: {fileID: 11400000, guid: 59329b2964f20d94ab04b3e762258f60, type: 2}

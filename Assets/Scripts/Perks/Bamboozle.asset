@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: Bamboozle
+  m_EditorClassIdentifier: 
+  icon: {fileID: -5880930831343046714, guid: 7008d9bb5e6f2f543b6c2e3545093f5e, type: 3}
+  info: 'Performing a Vault action is 5/10/15 % faster and calls upon The Entity
+    IconHelp entity.png to block that Vault location for Survivors for 8/12/16 seconds.
+
+    Only
+    one Vault location may be blocked this way at any given time.'
+  Name: Bamboozle

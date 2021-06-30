@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: SaveTheBestForLast
+  m_EditorClassIdentifier: 
+  icon: {fileID: 6685296776743681085, guid: 33e60b8f99451b749b74e74a3b8e0df5, type: 3}
+  info: 'Each time you hit a Survivor other than your Obsession with a Basic Attack,
+    Save the Best for Last gains <color=#ffff00>1 Token</color>, up to a maximum
+    of <color=#ffa500>8 Tokens</color>:
+
+
+    Gain a stack-able <color=#FF0000>5%</color>
+    Cool-down reduction on successful attacks per Token, up to a maximum of <color=#800080>40%</color>.
+
+    Each
+    time you hit your Obsession with a Basic Attack, Save the Best for Last loses
+    <color=#ffff00>4</color>/<color=#00ff00>3</color>/<color=#800080>2</color> Tokens.
+
+
+    When
+    the Obsession is sacrificed or killed, you can neither gain nor lose any more
+    Tokens.
+
+    You can only be obsessed with one Survivor at a time.'
+  Name: Save The Best For Last

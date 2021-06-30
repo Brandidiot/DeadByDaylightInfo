@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Wraith
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -1364186699980225264, guid: 340b24d84235a7d4d9fb91ca1b89ad6a, type: 3}
+  Name: The Wraith
+  scrollHeight: 714.9219
+  Lore: 'Philip Ojomo came to this country without anything than hope for a new beginning.
+    He was happy as he got offered a job at Autohaven Wreckers. A small scrap yard
+    where bribed cops turned a blind eye for the somewhat shady business that took
+    place.
+
+
+    Ojomo didn''t care. He had seen criminal activity up close in his
+    homeland and as long as he didn''t get involved, he let things be. He just fixed
+    cars and handled the crusher. Something he did really well. A car went in and
+    a small, metallic cube came out.
+
+
+    It was not until one gloomy day that he,
+    just by accident, saw some blood coming from one of the un-crushed cars. As he
+    opened the trunk he found a young man, gagged and with tied hands with panic
+    filled eyes. Ojomo freed the man who managed to run ten feet before Ojomo''s
+    boss stopped him and slit his throat. As Ojomo demanded answers he got explained
+    to him that he''d been nothing more than a simple executioner as more or less
+    every car had a soul in them as this was a "service" the scrap yard provided
+    to certain "clients".
+
+
+    Ojomo snapped and went ballistic. He threw his boss
+    in the crusher and let it slowly compress, as the head stuck out, Ojomo grabbed
+    it and pulled head and spine out of the body. Then he left and was never seen
+    again.'
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk2: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk3: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk4: {fileID: 11400000, guid: ec3890e9854ffc34e92bfd076c3b612a, type: 2}
+  build2Name: Non-Undying
+  perk5: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk6: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  perk7: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk8: {fileID: 11400000, guid: ec3890e9854ffc34e92bfd076c3b612a, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk10: {fileID: 11400000, guid: 2c7cd7c8125671a4385e344e48fecd21, type: 2}
+  perk11: {fileID: 11400000, guid: 1c0c196db8d7aa64eb1a83f5d3b24463, type: 2}
+  perk12: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}
+  build4Name: BBQ
+  perk13: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk14: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk15: {fileID: 11400000, guid: 40648968e4d09e64eab3f6adb7ea17c9, type: 2}
+  perk16: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}

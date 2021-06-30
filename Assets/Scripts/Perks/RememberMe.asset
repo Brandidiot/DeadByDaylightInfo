@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c9934317c00bb54d904a718726f9651, type: 3}
+  m_Name: RememberMe
+  m_EditorClassIdentifier: 
+  icon: {fileID: -2109818490488645775, guid: abbaf5f48379d4a4abc6c85ebebcaf9d, type: 3}
+  info: 'Each time you hit your Obsession with a Basic Attack, Remember Me gains
+    <color=#ffff00>1 Token</color>:
+
+
+    The Opening time of both Exit Gates is
+    increased by <color=#ffa500>4 seconds</color> per Token, up to a maximum of <color=#ffff00>8
+    additional</color>/<color=#00ff00>12 additional</color>/<color=#800080>16 additional</color>
+    seconds.
+
+    The Obsession is unaffected by this penalty.
+
+
+    You can only
+    be obsessed with one Survivor at a time.'
+  Name: Remember Me

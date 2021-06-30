@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
+  m_Name: Demo
+  m_EditorClassIdentifier: 
+  Icon: {fileID: -781996718755822099, guid: 58f52c60a8a026d48a837e1fd8c2f3bb, type: 3}
+  Name: The Demogorgon
+  scrollHeight: 410
+  Lore: A blooming mouth full of needle-like teeth for a face, large, curved, razor-sharp
+    claws, and powerful legs to pounce on victims, make The Demogorgon a frightening
+    monster to face in any dimension. It is a nightmare of unrestrained, feral rage
+    as it hunts down its prey and rips it to pieces, devouring every last morsel
+    of flesh and gore, leaving nothing for scavengers. The creature is untouched
+    by any sense of compassion or restraint. Looming over its victim, it shows no
+    doubt or mercy, just the pure instinct of its insatiable blood lust as it delivers
+    the deathblow. A perfect hunter, The Demogorgon is a macabre testament to the
+    horrors lurking in the Upside Down and why it was choice pickings for The Entity.
+  build1Name: Generic
+  perk1: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
+  perk2: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}
+  perk3: {fileID: 11400000, guid: 92b4d0559abb0ae4cae59b3ada212c1d, type: 2}
+  perk4: {fileID: 11400000, guid: 1abe75d6cda2a464db5b09e4e80dff0e, type: 2}
+  build2Name: Non-Undying
+  perk5: {fileID: 11400000, guid: 06df1fc9eb95e3f45876c5a7eb838797, type: 2}
+  perk6: {fileID: 11400000, guid: 1941c6ab0c1f51146899b9685eb4ee4d, type: 2}
+  perk7: {fileID: 11400000, guid: 92b4d0559abb0ae4cae59b3ada212c1d, type: 2}
+  perk8: {fileID: 11400000, guid: 8e146cadcecaebc4980e848177b805cb, type: 2}
+  build3Name: Non-Teachable
+  perk9: {fileID: 11400000, guid: 3aa0f8453fd6a3b4c900ab416b7dbe80, type: 2}
+  perk10: {fileID: 11400000, guid: 99bd8110a97cca541b94592e9674e3a2, type: 2}
+  perk11: {fileID: 11400000, guid: 8a3c93a731e7fce4cbe1297747cb5b11, type: 2}
+  perk12: {fileID: 11400000, guid: 9bac0260638d9854f9acfa46e01799d6, type: 2}
+  build4Name: 
+  perk13: {fileID: 0}
+  perk14: {fileID: 0}
+  perk15: {fileID: 0}
+  perk16: {fileID: 0}
