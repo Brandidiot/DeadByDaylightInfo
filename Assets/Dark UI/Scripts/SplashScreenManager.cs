@@ -33,7 +33,7 @@ namespace Michsky.UI.Dark
             else
             {
                 splashScreen.SetActive(true);
-                // mainPanels.SetActive(false);
+                //mainPanels.SetActive(false);
             }
         }
     }

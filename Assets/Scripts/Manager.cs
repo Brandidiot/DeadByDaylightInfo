@@ -18,6 +18,7 @@ public class Manager : MonoBehaviour
     [SerializeField] private GameObject killerList;
     [SerializeField] private GameObject killerPanel;
     [SerializeField] private GameObject backButton;
+    [SerializeField] private GameObject backToMainButton;
     [SerializeField] private TooltipTrigger perk1Tooltip;
     [SerializeField] private TooltipTrigger perk2Tooltip;
     [SerializeField] private TooltipTrigger perk3Tooltip;
@@ -36,6 +37,8 @@ public class Manager : MonoBehaviour
 
     private string _killer = "";
     private bool _back = false;
+    private bool _backToMain = false;
+
     private void Awake()
     {
         Screen.SetResolution( 1125, 674, false );
@@ -54,16 +57,33 @@ public class Manager : MonoBehaviour
         {
             backButton.SetActive(false);
         }
-        else _back = true;
+        else backButton.SetActive(true);
+        
+        if (_backToMain == false)
+        {
+            backToMainButton.SetActive(false);
+        }
+        else backToMainButton.SetActive(true);;
     }
 
     public void Back()
     {
         title.text = "Select Killer";
         _killer = "";
-        killerList.SetActive(true);
-        killerPanel.SetActive(false);
         _back = false;
+        _backToMain = true;
+    }
+
+    public void KillerBuilds()
+    {
+        title.text = "Select Killer";
+        _backToMain = true;
+    }
+    
+    public void BackToMain()
+    {
+        title.text = "";
+        _backToMain = false;
     }
     
     public void KillerSelected()
@@ -74,9 +94,10 @@ public class Manager : MonoBehaviour
     private void InitiateKiller(string killer)
     {
         _back = true;
+        _backToMain = false;
         _killer = killer;
-        killerList.SetActive(false);
-        killerPanel.SetActive(true);
+        //killerList.SetActive(false);
+        //killerPanel.SetActive(true);
         backButton.SetActive(true);
 
         if (killers[GetKiller()].build1Name != "")
