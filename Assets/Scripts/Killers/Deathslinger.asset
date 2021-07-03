@@ -12,9 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Deathslinger
   m_EditorClassIdentifier: 
-  Icon: {fileID: 9031595010626934013, guid: 793bb5c21e7256343bcb327230a78504, type: 3}
+  Icon: {fileID: 3756164360892319056, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Deathslinger
   scrollHeight: 2514.512
+  infoHeight: 0
+  info: 'The Deathslinger is a vengeful Killer, able to spear Survivors from a distance
+    and reel them in using his Power, The Redeemer.
+
+
+    His personal Perks, <color=#ffff00>Gearhead<color=#ffff00>Intermediate</color>,
+    <color=#ffff00>Dead Man''s Switch<color=#ffff00>Intermediate</color>, and <color=#ffff00>Hex:
+    Retribution<color=#ffff00>Intermediate</color> allow him to locate and impede
+    Survivor objectives, and punish Survivors for destroying Totems.
+
+
+    Difficulty
+    rating: <color=#ffff00>Intermediate</color>'
   Lore: "Born in the dust-ridden badlands of the American Midwest, Caleb Quinn was
     son to struggling Irish immigrants. On the edge of the frontier, sickness, famine,
     and death were common sights, and pioneers contended for whatever scraps they

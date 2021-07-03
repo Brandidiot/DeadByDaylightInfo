@@ -12,9 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Hag
   m_EditorClassIdentifier: 
-  Icon: {fileID: -3885374688362982791, guid: 71b37875dc9aaf64e89c5f9f3273f1ff, type: 3}
+  Icon: {fileID: 3587240613104883984, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Hag
   scrollHeight: 1032.031
+  infoHeight: 425
+  info: 'The Hag is a cursed Killer, able to place Phantasm Traps and then teleport
+    to them upon activation, using her Power.
+
+
+    Her personal Perks, <color=#ffff00>Hex:
+    The Third Seal</color>, <color=#ffff00>Hex: Ruin</color>, and <color=#ffff00>Hex:
+    Devour Hope</color>, apply crippling penalties to Survivors as long as the associated
+    Totem remains uncleansed.
+
+
+    Her Perks revolve around Hex Totems IconHelpLoading
+    totem.png. They are focused on cursing the Survivors and sapping their abilities.
+    The curse lasts until the Survivors manage to track the Hex Totem down and cleanse
+    it.
+
+
+    Difficulty rating: <color=#ffff00>Intermediate</color>'
   Lore: "Lisa Sherwood grew up in a quiet village, mainly isolated from the rest
     of civilisation. The people of the hamlet were kind and the elders kept old traditions
     alive, often keeping the peace by personally settling the ever-rare disputes.

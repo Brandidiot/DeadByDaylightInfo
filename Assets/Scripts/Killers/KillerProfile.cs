@@ -19,9 +19,19 @@ public class KillerProfile : ScriptableObject
     [BoxGroup(LEFT_VERTICAL_GROUP + "/General")]
     [VerticalGroup(GENERAL_SETTINGS_VERTICAL_GROUP + "Right")]
     public string Name;
+    
     [BoxGroup(LEFT_VERTICAL_GROUP + "/General")]
     [VerticalGroup(GENERAL_SETTINGS_VERTICAL_GROUP + "Right")]
     public float scrollHeight;
+    
+    [BoxGroup(LEFT_VERTICAL_GROUP + "/General")]
+    [VerticalGroup(GENERAL_SETTINGS_VERTICAL_GROUP + "Right")]
+    public float infoHeight;
+
+    [BoxGroup(LEFT_VERTICAL_GROUP + "/General")]
+    [VerticalGroup(GENERAL_SETTINGS_VERTICAL_GROUP + "Right")]
+    [TextArea(4, 14)]
+    public string info;
 
     [HorizontalGroup("Split", 0.5f, MarginLeft = 5, LabelWidth = 130)]
     [BoxGroup("Split/Lore")]

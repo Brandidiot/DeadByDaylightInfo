@@ -12,9 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Spirit
   m_EditorClassIdentifier: 
-  Icon: {fileID: -4463601529666964615, guid: 4a9f4f4188a42374ca7fb782999c896c, type: 3}
+  Icon: {fileID: -1657998207227311315, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Spirit
   scrollHeight: 1894.382
+  infoHeight: 440
+  info: 'The Spirit is a phase-walking Killer, able to catch Survivors off-guard
+    with her traversal Power, Yamaoka''s Haunting. Her Power allows her to teleport
+    from one place to another without being seen.
+
+
+    Her personal Perks, <color=#ffff00>Spirit
+    Fury</color>, <color=#ffff00>Hex: Haunted Ground</color>, and <color=#ffff00>Rancor</color>,
+    give her tools to observe and bait Survivors, and deal with obstacles directly
+    in her path.
+
+
+    She inherited incredible fury from her ancestors. The wrath
+    that flows through her veins is her legacy. The terrible pain she suffered set
+    it off. Swift and lethal, The Spirit exacts her revenge endlessly.
+
+
+    Difficulty
+    rating: <color=#FF0000>Hard</color>'
   Lore: 'Rin was the only child of the Yamaoka family. She was raised in the dusty
     halls of a traditional house in Kagawa. She studied Education at Takamatsu, a
     private university, which weighed heavily on her family''s shaky finances. Her
@@ -22,43 +41,43 @@ MonoBehaviour:
     in a futile attempt to help lighten the load.
 
 
-    Her father faced a debt
-    that grew without end. He started working double-shifts in hopes of obtaining
-    a promotion. That''s when he started losing sleep. A dark whisper would keep
-    him awake all night, reminding him of his hopeless situation. Exhausted, he started
-    to lose grasp of reality. Fighting to deny what the voice whispered at night,
-    Rin''s father made a desperate move. He met with his superior and explained his
-    situation. He begged for a bonus, an advance, time-off---anything.
+    Her father faced a debt that
+    grew without end. He started working double-shifts in hopes of obtaining a promotion.
+    That''s when he started losing sleep. A dark whisper would keep him awake all
+    night, reminding him of his hopeless situation. Exhausted, he started to lose
+    grasp of reality. Fighting to deny what the voice whispered at night, Rin''s
+    father made a desperate move. He met with his superior and explained his situation.
+    He begged for a bonus, an advance, time-off---anything.
 
 
-    His
-    request was denied. The company had launched a defective production line that
-    was costing them dearly. Someone had to be held accountable and Rin''s father
-    fitted the bill perfectly. He was fired after twenty-two years of service.
+    His request was
+    denied. The company had launched a defective production line that was costing
+    them dearly. Someone had to be held accountable and Rin''s father fitted the
+    bill perfectly. He was fired after twenty-two years of service.
 
 
-    That
-    evening, Rin came home from work. She''d stayed late to entertain customers that
-    lingered at the restaurant. As she parked her bike in the shed, she heard her
-    mother''s scream come from the house.
+    That evening,
+    Rin came home from work. She''d stayed late to entertain customers that lingered
+    at the restaurant. As she parked her bike in the shed, she heard her mother''s
+    scream come from the house.
 
 
-    She rushed in, climbing up the stairs
-    to her parents'' room. There she found bits and pieces of her mother on the floor.
-    Her limbs were clean-cut, tangled up in an unnatural position. Her breasts were
-    sliced up, revealing her rib cage, which was cracked open. Rin gagged.
+    She rushed in, climbing up the stairs to her
+    parents'' room. There she found bits and pieces of her mother on the floor. Her
+    limbs were clean-cut, tangled up in an unnatural position. Her breasts were sliced
+    up, revealing her rib cage, which was cracked open. Rin gagged.
 
 
-    A
-    sharp Katana came crashing down. Rin blocked the blade, which bit into her bare
-    forearm. The shock of recognition interrupted her pain: her father was wielding
-    the Katana with a stoic expression. She cried out to make him stop, but he slashed
-    her arm again.
+    A sharp
+    Katana came crashing down. Rin blocked the blade, which bit into her bare forearm.
+    The shock of recognition interrupted her pain: her father was wielding the Katana
+    with a stoic expression. She cried out to make him stop, but he slashed her arm
+    again.
 
 
-    She rushed off and slid on the blood-smeared floor. Using
-    the door frame as support, she raised herself up. The Katana ripped through the
-    wall, cleaving her other arm. She screamed in pain as she limped into the hallway,
+    She rushed off and slid on the blood-smeared floor. Using the door
+    frame as support, she raised herself up. The Katana ripped through the wall,
+    cleaving her other arm. She screamed in pain as she limped into the hallway,
     only to be met by her father''s blade.
 
 
@@ -89,18 +108,18 @@ MonoBehaviour:
     her ears. Her body felt so heavy she could no longer move.
 
 
-    The ground
-    shook with her father''s footsteps. She knew she was not going to make it, but
-    she no longer cared. She would make him pay, in this life or the next.
+    The ground shook
+    with her father''s footsteps. She knew she was not going to make it, but she
+    no longer cared. She would make him pay, in this life or the next.
 
 
-    A
-    dark Fog slowly veiled her eyes, but it could not subdue her rage. She would
-    not rest--not yet. The darkness whispered, promising blood and revenge.
+    A dark
+    Fog slowly veiled her eyes, but it could not subdue her rage. She would not rest--not
+    yet. The darkness whispered, promising blood and revenge.
 
 
-    An
-    oath was made and Rin closed her eyes.'
+    An oath was made
+    and Rin closed her eyes.'
   build1Name: Generic
   perk1: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
   perk2: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}

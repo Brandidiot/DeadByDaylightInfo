@@ -12,9 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Leatherface
   m_EditorClassIdentifier: 
-  Icon: {fileID: 2249580527646467131, guid: 03514b403b32aa646943d1bb597c6ccc, type: 3}
+  Icon: {fileID: 1692653631722531660, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Cannibal
   scrollHeight: 1442.383
+  infoHeight: 380
+  info: 'The Cannibal is a chainsaw-wielding Killer, able to trigger a deadly frenzy
+    using his Power, immediately downing anyone in its path.
+
+
+    His personal
+    Perks, <color=#ffff00>Knock Out</color>, <color=#ffff00>Barbecue & Chilli</color>,
+    and <color=#ffff00>Franklin''s Demise</color>, make Survivors easier to locate
+    while robbing them of their tools and abilities.
+
+
+    His Perks revolve around
+    the unknown. Nobody knows where anyone is, especially The Cannibal himself. You
+    are not aware of his presence until his Chainsaw bursts through your spinal cord.
+
+
+    Difficulty
+    rating: <color=#00ff00>Easy</color>'
   Lore: "Leatherface kills not from a desire to exert his will over others, to satisfy
     carnal urges, or even to quiet the voices in his head. He kills because he is
     scared. Scared that others will hurt him; scared that his family will be displeased

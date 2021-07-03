@@ -12,9 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Plague
   m_EditorClassIdentifier: 
-  Icon: {fileID: 6122192079788252080, guid: 55ba3d204c6a888449724e08bc128dba, type: 3}
+  Icon: {fileID: -2856148418794486268, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Plague
   scrollHeight: 2026.287
+  infoHeight: 370
+  info: 'The Plague is a devout Killer, able to infect Survivors from a short distance
+    using her Power, Vile Purge. Survivors inflicted by this contamination risk becoming
+    injured or broken, unless they find a way to cure themselves in a Pool of Devotion.
+
+
+    Her
+    personal Perks, <color=#ffff00>Corrupt Intervention</color>, <color=#ffff00>Infectious
+    Fright</color>, and <color=#ffff00>Dark Devotion</color>, give her the ability
+    to hinder Survivor objectives, while simultaneously confusing and frightening
+    those within her presence.
+
+
+    Difficulty rating: <color=#ffff00>Intermediate</color>'
   Lore: 'When she was five years old, Adiris, the youngest of a family of seven,
     was left on the brick-red burning steps of the Temple of Purgation at the centre
     of Babylon. To process her shock and sorrow, she held onto the belief that the

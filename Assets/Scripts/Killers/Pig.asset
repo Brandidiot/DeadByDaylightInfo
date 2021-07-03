@@ -12,9 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Pig
   m_EditorClassIdentifier: 
-  Icon: {fileID: -9122695006515159614, guid: bbeed7d3f5c693942ab7c99b34c23353, type: 3}
+  Icon: {fileID: -8141305648324669727, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Pig
   scrollHeight: 1386.902
+  infoHeight: 450
+  info: 'The Pig is a tormenting Killer, able to crouch into stealth mode, then ambush
+    Survivors from a short distance. She can also apply Reverse Bear Traps to downed
+    Survivors, forcing them to remove it before the timer runs out, triggering an
+    instant death.
+
+
+    Her personal Perks, <color=#ffff00>Hangman''s Trick</color>,
+    <color=#ffff00>Surveillance</color>, and <color=#ffff00>Make Your Choice</color>,
+    give her more Map control and expose altruistic Survivors.
+
+
+    The focus of
+    her Perks is on pain and torture. A Hook is not that easy to flee from and all
+    Survivors will be seriously tested when it comes to Skill Checks.
+
+
+    Difficulty
+    rating: <color=#ffff00>Intermediate</color>'
   Lore: 'When John Kramer, better known as Jigsaw, planned for his son to be born
     during the Chinese Zodiac''s Year of the Pig, he wanted it to represent fertility
     and rebirth; a new beginning for him and his wife, and the start of a charmed
@@ -69,9 +88,9 @@ MonoBehaviour:
     again.
 
 
-    Ultimately, she saw now that she had been right in the choices
-    she had made. The time for games was over. There was no chance of redemption
-    for any of them. They were meat, and meat was destined to die.'
+    Ultimately, she saw now that she had been right in the choices she
+    had made. The time for games was over. There was no chance of redemption for
+    any of them. They were meat, and meat was destined to die.'
   build1Name: Generic
   perk1: {fileID: 11400000, guid: 05e3a29fb03e9054fa7b059b869acbca, type: 2}
   perk2: {fileID: 11400000, guid: 3c3bda9e64375a0448b17b6ede2ee8fe, type: 2}

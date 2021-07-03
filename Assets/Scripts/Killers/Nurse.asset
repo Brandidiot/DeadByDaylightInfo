@@ -12,9 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Nurse
   m_EditorClassIdentifier: 
-  Icon: {fileID: -117381706063063591, guid: bd27e6e58de142b4889ede5e41a2c42c, type: 3}
+  Icon: {fileID: -5788046659231952958, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Nurse
   scrollHeight: 861.2722
+  infoHeight: 330
+  info: 'The Nurse is a warping Killer, able to blink through obstacles and quickly
+    close gaps with her Power.
+
+
+    Her personal Perks, <color=#ffff00>Stridor</color>,
+    <color=#ffff00>Thanatophobia</color>, and <color=#ffff00>A Nurse''s Calling</color>,
+    allow her to decrease Survivor abilities and track them when they are injured.
+
+
+    She
+    is focused on spotting and tracking, making it harder for Survivors to hide.
+
+
+    Difficulty
+    rating: <color=#FF0000>Hard</color>'
   Lore: 'Sally Smithson came to town with dreams of children''s feet and laughter
     in a wooden home built by her husband Andrew. But life came not with smiles but
     with plans of destruction. Andrew worked as a lumberjack - a job with its perils.

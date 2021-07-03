@@ -12,9 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Demo
   m_EditorClassIdentifier: 
-  Icon: {fileID: -781996718755822099, guid: 58f52c60a8a026d48a837e1fd8c2f3bb, type: 3}
+  Icon: {fileID: 5881531630356920679, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Demogorgon
   scrollHeight: 410
+  infoHeight: 375
+  info: 'The Demogorgon is an unidentified Killer, able to open multiple Portals
+    and traverse between them to cover large distances. Using its Power, Of the Abyss,
+    it can detect any Survivors within a close proximity to the Portals then unleash
+    a leaping attack to inflict damage from a distance.
+
+
+    Its personal Perks,
+    <color=#ffff00>Surge</color>, <color=#ffff00>Mindbreaker</color>, and <color=#ffff00>Cruel
+    Limits</color>, impact the environment close to Generators and affect nearby
+    Survivors in unexpected ways.
+
+
+    Difficulty rating: <color=#ffff00>Intermediate</color>'
   Lore: A blooming mouth full of needle-like teeth for a face, large, curved, razor-sharp
     claws, and powerful legs to pounce on victims, make The Demogorgon a frightening
     monster to face in any dimension. It is a nightmare of unrestrained, feral rage

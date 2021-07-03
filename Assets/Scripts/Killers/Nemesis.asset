@@ -12,9 +12,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Nemesis
   m_EditorClassIdentifier: 
-  Icon: {fileID: 7791737524285958716, guid: 489f42e8bf845504f93f5323d6b279c8, type: 3}
+  Icon: {fileID: 6588946688876683832, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Nemesis
   scrollHeight: 542.6328
+  infoHeight: 0
+  info: 'The Nemesis is an unrelenting Killer, capable of attacking at mid-range
+    with his tentacle, while receiving support from Zombies roaming the area.
+
+
+    His
+    personal Perks, <color=#ffff00>Lethal Pursuer</color>, <color=#ffff00>Hysteria</color>,
+    and <color=#ffff00>Eruption</color>, allow him to quickly ambush Survivors, while
+    sowing confusion and fear when injuring and hooking them.
+
+
+    Difficulty rating:
+    <color=#ffff00>Intermediate</color>'
   Lore: "Designed by Umbrella Corporation, The Nemesis is a nearly unstoppable bio-organic
     weapon fixated on pursuing and eliminating its targets.\r\nPart of the Tyrant
     T-103 series, this specimen has increased intelligence and awareness due to the

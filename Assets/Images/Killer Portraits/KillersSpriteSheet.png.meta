@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: f14d21e6bd8e8e74dad029b0b2b99204
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3341915885729267288
+    second: KillersSpriteSheet_0
+  - first:
+      213: 6789522998984752587
+    second: KillersSpriteSheet_1
+  - first:
+      213: -8432117663254424235
+    second: KillersSpriteSheet_2
+  - first:
+      213: -5788046659231952958
+    second: KillersSpriteSheet_3
+  - first:
+      213: 2902231351330537229
+    second: KillersSpriteSheet_4
+  - first:
+      213: 5013779492520446209
+    second: KillersSpriteSheet_5
+  - first:
+      213: 3587240613104883984
+    second: KillersSpriteSheet_6
+  - first:
+      213: 1287645219129251067
+    second: KillersSpriteSheet_7
+  - first:
+      213: 1692653631722531660
+    second: KillersSpriteSheet_8
+  - first:
+      213: 931896560089519558
+    second: KillersSpriteSheet_9
+  - first:
+      213: -8141305648324669727
+    second: KillersSpriteSheet_10
+  - first:
+      213: -4537829557166666551
+    second: KillersSpriteSheet_11
+  - first:
+      213: -1657998207227311315
+    second: KillersSpriteSheet_12
+  - first:
+      213: -720837136597067485
+    second: KillersSpriteSheet_13
+  - first:
+      213: -2856148418794486268
+    second: KillersSpriteSheet_14
+  - first:
+      213: -3448017573771999073
+    second: KillersSpriteSheet_15
+  - first:
+      213: 5881531630356920679
+    second: KillersSpriteSheet_16
+  - first:
+      213: 997036473874018991
+    second: KillersSpriteSheet_17
+  - first:
+      213: 3756164360892319056
+    second: KillersSpriteSheet_18
+  - first:
+      213: 291465691923268675
+    second: KillersSpriteSheet_19
+  - first:
+      213: 5227771964280202677
+    second: KillersSpriteSheet_20
+  - first:
+      213: -6133697762723629996
+    second: KillersSpriteSheet_21
+  - first:
+      213: 4882427227139347932
+    second: KillersSpriteSheet_22
+  - first:
+      213: 6588946688876683832
+    second: KillersSpriteSheet_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KillersSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2572
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eb026baced06e20800000000000000
+      internalID: 3341915885729267288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2573
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb4d4f13b393e50800000000000000
+      internalID: 6789522998984752587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2573
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5555c6919a91bfa80800000000000000
+      internalID: -8432117663254424235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 2572
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfc715da3abcafa0800000000000000
+      internalID: -5788046659231952958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2062
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ffe00990cc64820800000000000000
+      internalID: 2902231351330537229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2063
+        width: 324
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109c1d162e5849540800000000000000
+      internalID: 5013779492520446209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 2062
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01998f3e45078c130800000000000000
+      internalID: 3587240613104883984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2062
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4ddea2182aed110800000000000000
+      internalID: 1287645219129251067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1552
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ba89e82838d7710800000000000000
+      internalID: 1692653631722531660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1552
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55b87ebf2ceec00800000000000000
+      internalID: 931896560089519558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1553
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee0ab7b5a5440f80800000000000000
+      internalID: -8141305648324669727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1552
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc00d96f046601c0800000000000000
+      internalID: -4537829557166666551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1042
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b4bfb3a6b9df8e0800000000000000
+      internalID: -1657998207227311315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1042
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329d83481721ff5f0800000000000000
+      internalID: -720837136597067485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1042
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40606f7452cec58d0800000000000000
+      internalID: -2856148418794486268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1042
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f980408f84e2620d0800000000000000
+      internalID: -3448017573771999073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 533
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769f5aa2bd56f9150800000000000000
+      internalID: 5881531630356920679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 533
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa27e55f36f26dd00800000000000000
+      internalID: 997036473874018991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 533
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05508f0d593902430800000000000000
+      internalID: 3756164360892319056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 533
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344cc47a08e7b0400800000000000000
+      internalID: 291465691923268675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 22
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5eaa157e6cc8840800000000000000
+      internalID: 5227771964280202677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 22
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454ff3de16ab0eaa0800000000000000
+      internalID: -6133697762723629996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 23
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd51653e1bdd1c340800000000000000
+      internalID: 4882427227139347932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KillersSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 22
+        width: 324
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8322b729a14a07b50800000000000000
+      internalID: 6588946688876683832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

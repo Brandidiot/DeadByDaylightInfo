@@ -12,9 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Legion
   m_EditorClassIdentifier: 
-  Icon: {fileID: -9011813278544704667, guid: 2f85e7f3c99b59347a418d8c27835644, type: 3}
+  Icon: {fileID: -720837136597067485, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Legion
   scrollHeight: 1760.786
+  infoHeight: 330
+  info: 'The Legion are a band of merciless Killers, able to rush down helpless Survivors
+    with their power, Feral Frenzy. Attacks made during their frenzy inflict lingering
+    internal damage, downing any Survivors that are not quick enough to react.
+
+
+    Their
+    personal Perks, <color=#ffff00>Discordance</color>, <color=#ffff00>Mad Grit</color>,
+    and <color=#ffff00>Iron Maiden</color>, give them the ability to locate their
+    prey and attack savagely while transporting Survivors to the Hook.
+
+
+    Difficulty
+    rating: <color=#ffff00>Intermediate</color>'
   Lore: "Frank Morrison was nineteen and had little to show for it. He'd stopped
     attending school after being kicked out of the basketball team for shoving a
     referee into the stands. Yet Frank was a man of potential, who could light up

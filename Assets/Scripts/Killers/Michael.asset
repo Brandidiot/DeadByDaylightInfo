@@ -12,9 +12,27 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Michael
   m_EditorClassIdentifier: 
-  Icon: {fileID: -1806015883115853427, guid: 89032b6d92815d244905192af523c782, type: 3}
+  Icon: {fileID: 5013779492520446209, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Shape
   scrollHeight: 542.9785
+  infoHeight: 450
+  info: 'The Shape is a haunting Killer, intent on monitoring Survivors from a distance
+    to feed his Power. The more he stalks, the stronger and faster he becomes.
+
+
+    His
+    personal Perks, <color=#ffff00>Save the Best for Last</color>, <color=#ffff00>Play
+    with Your Food</color>, and <color=#ffff00>Dying Light</color>, select one Survivor
+    to become his Obsession and will trigger deadly effects based on the Obsession
+    Status.
+
+
+    His Perks are focused around Obsessions, just like Michael Myers
+    is obsessed with killing, the Killer picks a Survivor, and tags them as his Obsession.
+
+
+    Difficulty
+    rating: <color=#FF0000>Hard</color>'
   Lore: "Michael Myers is one of those seeds. He had no issues with causing the pain
     of others. Instead, it was exactly what he sought. But even life can be tough
     on those with minds filled with terror. The difference is just how one goes about

@@ -12,9 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Blight
   m_EditorClassIdentifier: 
-  Icon: {fileID: -8111006619005018607, guid: 90d11b81b701942449478362709b03bb, type: 3}
+  Icon: {fileID: 5227771964280202677, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Blight
   scrollHeight: 3077.669
+  infoHeight: 0
+  info: 'The Blight is an unpredictable Killer, able to rush forward in a burst of
+    speed and carom off obstacles to injure Survivors using his power, Blighted Corruption.
+
+
+    His
+    personal Perks, <color=#ffff00>Dragon''s Grip</color>, <color=#ffff00>Hex: Blood
+    Favour</color>, and <color=#ffff00>Hex: Undying</color> allow him to impose powerful
+    effects on Generators, Totems and Pallets.
+
+
+    Difficulty rating: <color=#FF0000>Hard</color>'
   Lore: "To understand the human condition, one must rise above it. This was the
     credo of Talbot Grimes, a Scottish chemist whose unrestrained ambition took him
     to towering heights. As a boy, he was a popular child\u2014bright, charismatic,

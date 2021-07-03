@@ -12,9 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Huntress
   m_EditorClassIdentifier: 
-  Icon: {fileID: 5126121102192863849, guid: abb0f064d2e495d43a2a1ab56e3fa9d0, type: 3}
+  Icon: {fileID: 2902231351330537229, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Huntress
   scrollHeight: 1969.014
+  infoHeight: 365
+  info: 'The Huntress is a ranged Killer, able to throw Hunting Hatchets at Survivors
+    to injure them from a distance.
+
+
+    Her personal Perks, <color=#ffff00>Beast
+    of Prey</color>, <color=#ffff00>Territorial Imperative</color>, and <color=#ffff00>Hex:
+    Huntress Lullaby</color>, allow her to apply pressure through better Map awareness
+    and enhanced chasing abilities.
+
+
+    Her Perks revolve around the hunt of the
+    prey, to track and find so that she can get close enough to make the kill.
+
+
+    Difficulty
+    rating: <color=#ffff00>Intermediate</color>'
   Lore: "As soon as Anna was able to walk, her mother started teaching her how to
     survive a harsh, solitary life in the northern woods. Living in such an extremely
     remote and dangerous area required skill and resilience. When sunlight became

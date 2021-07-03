@@ -12,9 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Twins
   m_EditorClassIdentifier: 
-  Icon: {fileID: 2869723424284737042, guid: d2c5642617aaa9041b576e6fa3ab271a, type: 3}
+  Icon: {fileID: -6133697762723629996, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Twins
   scrollHeight: 3395.822
+  infoHeight: 0
+  info: "The Twins are a cooperative pair of Killers, able to divide and hunt together
+    using their Power, Blood Bond.\r\n\nTheir personal Perks, <color=#ffff00>Hoarder</color>,
+    <color=#ffff00>Oppression</color>, and <color=#ffff00>Coup de Gr\xE2ce</color>,
+    allow them to monitor Survivors' actions, impede their progress, and hunt more
+    effectively.\r\n\nDifficulty rating: <color=#FF0000>Hard</color>"
   Lore: "A pair of conjoined twins, Charlotte and Victor Deshayes formed an emotional
     bond like none other. The unlikeliness of their successful birth in the 17th
     century could be described as miraculous, yet it immediately brought about their

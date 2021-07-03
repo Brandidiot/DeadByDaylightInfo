@@ -12,9 +12,24 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Ghostface
   m_EditorClassIdentifier: 
-  Icon: {fileID: 2032153682048607370, guid: 47aecb2e9edfb704d93c4c4685d27e6b, type: 3}
+  Icon: {fileID: -3448017573771999073, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Ghostface
   scrollHeight: 2324.479
+  infoHeight: 365
+  info: 'The Ghost Face is a creepy Killer, able to stalk his victims and sneak up
+    silently using his Power, Night Shroud. Affected Survivors will find themselves
+    vulnerable and oblivious to his presence and must use all of their perception
+    and awareness to protect themselves from his approach.
+
+
+    His personal Perks,
+    <color=#ffff00>I''m All Ears</color>, <color=#ffff00>Thrilling Tremors</color>,
+    and <color=#ffff00>Furtive Chase</color>, give him the ability to locate Survivors,
+    defend Generators, and make his Chases unpredictable.
+
+
+    Difficulty rating
+    <color=#FF0000>Hard</color>'
   Lore: "Danny Johnson, known as Jed Olsen by some, grabbed the newspaper from the
     kitchen counter: it was a week old, but his face was on the front page, grainy
     and sunken. It was one of those muggy afternoons in Florida when heat and humidity

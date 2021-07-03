@@ -12,9 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Doctor
   m_EditorClassIdentifier: 
-  Icon: {fileID: 4923159571906479061, guid: 841284d810a0e3c4880d9bfc221f6248, type: 3}
+  Icon: {fileID: 1287645219129251067, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Doctor
   scrollHeight: 1605.43
+  infoHeight: 400
+  info: 'The Doctor is a madness-inducing Killer, able to use his Power - Static
+    Blast, incapacitating Survivors and causing them to hallucinate and scream in
+    terror, revealing their position.
+
+
+    His personal Perks, <color=#ffff00>Overwhelming
+    Presence</color>, <color=#ffff00>Monitor & Abuse</color>, and <color=#ffff00>Overcharge</color>,
+    encourage chases, impact Survivors'' ability to repair effectively and make him
+    harder to detect when not in a Chase.
+
+    His Perks are about hindering and
+    creating problems for the Survivors. The sheer stature of The Doctor infuses
+    fear and terror in those around him.
+
+
+    Difficulty rating: <color=#FF0000>Hard</color>'
   Lore: "From an early age, Herman Carter understood the human psyche. To analyse
     and de-construct something as powerful as the brain intrigued him. He was an
     apt pupil and gained the attention of his teachers. He excelled in high-school

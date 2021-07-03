@@ -12,9 +12,28 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Freddie
   m_EditorClassIdentifier: 
-  Icon: {fileID: 4196666770117288056, guid: 4e25394ad2661cd409788e55a40012b1, type: 3}
+  Icon: {fileID: 931896560089519558, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Nightmare
   scrollHeight: 1760.036
+  infoHeight: 440
+  info: 'The Nightmare is a nightmare Killer, passively pulling Survivors into his
+    Dream World where Survivors are vulnerable to his Dream Abilities. His Dream
+    Projection ability allows him to quickly appear across the map and put pressure
+    onto Survivors.
+
+
+    His personal Perks, <color=#ffff00>Fire Up</color>, <color=#ffff00>Remember
+    Me</color>, & <color=#ffff00>Blood Warden</color>, improve his abilities over
+    time and make him stronger as the trial reaches its climax.
+
+
+    His Perks
+    revolve around stopping Survivors from fleeing. They will make surviving a real
+    pain for all, and managing to escape the Hunting Ground won''t be easy.
+
+
+    Difficulty
+    rating: <color=#FF0000>Hard</color>'
   Lore: "Even while he lived, Freddy Krueger was a creature of nightmares for those
     who truly knew him. Hiding behind a mask of warmth and friendliness, Freddy's
     actual temperament was known only to his victims. When those victims were finally

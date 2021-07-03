@@ -12,9 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Trapper
   m_EditorClassIdentifier: 
-  Icon: {fileID: -7718398469036257577, guid: 432ebb69b9dcdf04692e973e75759d02, type: 3}
+  Icon: {fileID: 3341915885729267288, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Trapper
   scrollHeight: 696.6268
+  infoHeight: 330
+  info: 'The Trapper is an area-control Killer, able to apply pressure across the
+    Map by placing deadly Bear Traps for Survivors to step into.
+
+
+    His personal
+    Perks, <color=#ffff00>Unnerving Presence</color>, <color=#ffff00>Brutal Strength</color>,
+    and <color=#ffff00>Agitation</color>, allow him to chase and carry Survivors
+    more effectively.
+
+
+    He is focused on physical attributes and making use
+    of his strength and the Survivors'' fear.
+
+
+    Difficulty Rating: <color=#00ff00>Easy</color>'
   Lore: 'Evan MacMillan idolised his father. It wasn''t just that he was heir to
     a great fortune, it was the way he ran the estate. Raised under his firm hand,
     Evan had taken to running the workforce with an iron hand. Production was always

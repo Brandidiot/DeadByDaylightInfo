@@ -12,9 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Trickster
   m_EditorClassIdentifier: 
-  Icon: {fileID: 3154505614304312604, guid: fee78d404a2988445bd8488c29f77a78, type: 3}
+  Icon: {fileID: 4882427227139347932, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Trickster
   scrollHeight: 3692.5
+  infoHeight: 0
+  info: 'The Trickster is a ranged Killer, able to quickly unleash a flurry of blades
+    by using his power, Showstopper.
+
+
+    His personal Perks, <color=#ffff00>Starstruck</color>,
+    <color=#ffff00>Hex: Crowd Control</color>, and <color=#ffff00>No Way Out</color>,
+    allow him to quickly down would-be rescuers and block areas of the environment
+    to his advantage.
+
+
+    Difficulty rating: <color=#00ff00>Easy</color>'
   Lore: "Ji-Woon Hak thrived under the attention of others, energized by every eye
     that watched him and every tongue that spoke his name. Amidst the prestige, he
     had only one desire: more. Even as a child he found ways to draw crowds. Working

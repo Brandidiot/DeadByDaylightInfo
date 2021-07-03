@@ -12,9 +12,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Wraith
   m_EditorClassIdentifier: 
-  Icon: {fileID: -1364186699980225264, guid: 340b24d84235a7d4d9fb91ca1b89ad6a, type: 3}
+  Icon: {fileID: -8432117663254424235, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Wraith
   scrollHeight: 714.9219
+  infoHeight: 330
+  info: 'The Wraith is a stealth Killer, able to cloak and uncloak at the ringing
+    of his Wailing Bell.
+
+
+    His personal Perks, <color=#ffff00>Predator</color>,
+    <color=#ffff00>Bloodhound</color>, and <color=#ffff00>Shadowborn</color>, give
+    him extra abilities to track and locate Survivors, making him a very efficient
+    Hunter.
+
+
+    He is all about tracking and hunting Survivors, making it easier
+    to catch and kill them.
+
+
+    Difficulty rating: <color=#ffff00>Intermediate</color>'
   Lore: 'Philip Ojomo came to this country without anything than hope for a new beginning.
     He was happy as he got offered a job at Autohaven Wreckers. A small scrap yard
     where bribed cops turned a blind eye for the somewhat shady business that took

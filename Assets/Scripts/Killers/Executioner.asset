@@ -12,9 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Executioner
   m_EditorClassIdentifier: 
-  Icon: {fileID: 2561435829098979917, guid: 878ce333a34263a48b714141f3587600, type: 3}
+  Icon: {fileID: 291465691923268675, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Executioner
-  scrollHeight: 0
+  scrollHeight: 587.01
+  infoHeight: 325
+  info: 'The Executioner is a map-manipulation Killer, able to torment Survivors
+    with the hazards he creates. Affected Survivors will be vulnerable to his special
+    Hook, the Cage of Atonement and his special mori, Final Judgement.
+
+
+    His
+    personal Perks, <color=#ffff00>Forced Penance</color>, <color=#ffff00>Trail of
+    Torment</color>, and <color=#ffff00>Deathbound</color> allows him to aggressively
+    defend his prey while deceiving and tracking Survivors.
+
+
+    Difficulty rating:
+    <color=#ffff00>Intermediate</color>'
   Lore: "A sadistic and merciless executioner, Pyramid Head is fixated on dispensing
     punishment through pain.\r\n\nEncumbered by the steel frame upon his head and
     with a hulking great blade in tow, he stalked the hellish corridors of Silent

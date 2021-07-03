@@ -12,9 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Oni
   m_EditorClassIdentifier: 
-  Icon: {fileID: 6905636040427598795, guid: a1357e41a69ec614e867602232b02aa2, type: 3}
+  Icon: {fileID: 997036473874018991, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Oni
   scrollHeight: 1984.361
+  infoHeight: 350
+  info: "The Oni is a monstrous Killer, able to absorb the blood energy of his injured
+    foes, and then use that energy to transform into a brutal demon. Using his power,
+    Yamaoka's Wrath, he can rush down Survivors at great speed and deal deadly strikes
+    with his Kanab\u014D.\r\n\nHis personal Perks, <color=#ffff00>Zanshin Tactics</color>,
+    <color=#ffff00>Blood Echo</color>, and <color=#ffff00>Nemesis</color>, provide
+    navigational information, punish injured Survivors, and gain advantages over
+    those that interfere.\r\n\nDifficulty rating: <color=#FF0000>Hard</color>"
   Lore: "Honouring his family name was never enough for Kazan Yamaoka. He wanted
     to surpass his father's reputation and end what he saw as the thinning of samurai
     culture with farmers often posing as samurai. His father tried to turn Kazan's

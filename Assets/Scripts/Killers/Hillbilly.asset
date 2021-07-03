@@ -12,9 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 828e2ecf01689df4585cb08c3d86af27, type: 3}
   m_Name: Hillbilly
   m_EditorClassIdentifier: 
-  Icon: {fileID: 3481793612468178990, guid: c0821adf9cd9e074da7652092a952235, type: 3}
+  Icon: {fileID: 6789522998984752587, guid: f14d21e6bd8e8e74dad029b0b2b99204, type: 3}
   Name: The Hillbilly
   scrollHeight: 602.1089
+  infoHeight: 325
+  info: 'The Hillbilly is a high-mobility Killer, able to cover large distances in
+    a short amount of time and instantly down Survivors using his Chainsaw.
+
+
+    His
+    personal Perks, <color=#ffff00>Enduring</color>, <color=#ffff00>Lightborn</color>,
+    and <color=#ffff00>Tinkerer</color>, allow him to enhance his Power and make
+    him harder to lose during chases.
+
+
+    He is about persistence and resilience.
+    This will make it harder for Survivors to foil him.
+
+
+    Difficulty rating:
+    <color=#00ff00>Easy'
   Lore: 'The son of wealthy landowners Max Thompson Sr. and Evelyn Thompson, this
     unnamed boy was an unwanted child born to savage parents. Hideously disfigured,
     he was shut away from society. So ashamed of their son, they bricked him off
